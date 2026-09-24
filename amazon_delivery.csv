@@ -1,0 +1,1034 @@
+Order_ID,Delivery_Partners,Agent_Rating,Sellers location,Buyers Location,Order_Date,Order_Time,Pickup_Time,Weather,Traffic,Vehicle,Area,Exp 1st Attempt days,Actual 1st Attempt days,Status,Exp 2nd Attempt days,Actual 2nd Attempt days,Final delivery Status,Total Attempt,Exp Total Days ,Actual Total Days,SLA Status,Category
+ialx566343618,India Post,1,Bhandup,Bandra,19-03-2022,11:30:00,11:45:00,Sunny,High ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Clothing
+akqg208421122,FedEx,3,Bhandup,Vikhroli,25-03-2022,19:45:00,19:50:00,Stormy,Jam ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Electronics
+njpu434582536,DHL,4.4,Ghatkopar,Virar,19-03-2022,08:30:00,08:45:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+rjto796129700,India Post,2.5,Bhandup,Borivali,05-04-2022,18:00:00,18:10:00,Sunny,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+zguw716275638,UPS,4.6,Malad,Worli,26-03-2022,13:30:00,13:45:00,Cloudy,High ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Toys
+fxuu788413734,DHL,4.8,Ghatkopar,Virar,11-03-2022,21:20:00,21:30:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+njmo150975311,FedEx,2.5,Malad,Airoli,04-03-2022,19:15:00,19:30:00,Fog,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Toys
+jvjc772545076,FedEx,4.6,Bhandup,Palghar,14-03-2022,17:25:00,17:30:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+uaeb808891380,DHL,4.8,Ghatkopar,Virar,20-03-2022,20:55:00,21:05:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+bgvc052754213,FedEx,4.1,Bhandup,Vashi,12-02-2022,21:55:00,22:10:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+vmau710398846,DHL,2.5,Ghatkopar,Meera Road,13-02-2022,14:55:00,15:05:00,Stormy,High ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+lcwn330553507,DHL,2.5,Ghatkopar,Virar,04-03-2022,17:30:00,17:40:00,Sandstorms,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+wcjs752046999,FedEx,1,Bhandup,Vikhroli,13-02-2022,09:20:00,09:30:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Apparel
+blhl288691670,Dehlivery,2.5,Ghatkopar,Vasai,14-02-2022,19:50:00,20:05:00,Fog,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Jewelry
+zyvo118176215,UPS,3,Malad,Malad,02-04-2022,20:25:00,20:35:00,Sandstorms,Jam ,van,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Outdoors
+uhfs888375680,FedEx,4,Bhandup,Palghar,01-03-2022,14:55:00,15:10:00,Windy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+vmfv999642595,FedEx,4.1,Malad,Airoli,16-03-2022,20:30:00,20:40:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+qfgc848777135,FedEx,4.9,Bhandup,Vikhroli,20-03-2022,20:40:00,20:50:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+vwmc439983136,DHL,2.5,Ghatkopar,Meera Road,15-02-2022,21:15:00,21:30:00,Windy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Jewelry
+ntzy027061451,Dehlivery,4.1,Ghatkopar,Vasai,16-03-2022,20:20:00,20:25:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+pbjm971961647,UPS,2.5,Malad,Ulhasnagar,10-03-2022,22:30:00,22:45:00,Sandstorms,Low ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+kjic578711491,India Post,5,Bhandup,Bandra,11-03-2022,08:15:00,08:30:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+rkzt648036688,FedEx,4.1,Malad,Airoli,27-03-2022,19:30:00,19:45:00,Windy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+segh259958026,Dehlivery,4,Ghatkopar,Vasai,26-03-2022,12:25:00,12:30:00,Cloudy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+owvs520891091,UPS,3,Malad,Malad,27-03-2022,18:35:00,18:50:00,Sunny,Medium ,van,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Outdoors
+edrh271340988,Dehlivery,5,Malad,Andheri,05-04-2022,20:35:00,20:40:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+qvfd540651807,FedEx,4.1,Bhandup,Palghar,12-03-2022,23:20:00,23:30:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+gzfn634029300,UPS,4,Malad,Worli,16-03-2022,21:20:00,21:35:00,Windy,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Cosmetics
+xjps180812498,DHL,4.8,Ghatkopar,Virar,02-04-2022,23:35:00,23:45:00,Windy,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+ahpg083217029,UPS,4.8,Malad,Ulhasnagar,01-04-2022,22:35:00,22:50:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+itii428784576,FedEx,4.1,Bhandup,Vashi,05-03-2022,22:35:00,22:40:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+asis944862845,Dehlivery,4.1,Ghatkopar,Andheri,11-02-2022,23:25:00,23:35:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+xzkg140273315,India Post,4.9,Bhandup,Borivali,11-02-2022,13:35:00,13:40:00,Cloudy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+zotl583816092,UPS,1.6,Malad,Worli,08-03-2022,21:35:00,21:45:00,Stormy,Jam ,scooter ,Urban,2,0,Failed,1,0,Failed,Failed,3,4,SLA Breached,Grocery
+agoo012263585,UPS,4.6,Malad,Worli,02-04-2022,22:35:00,22:45:00,Cloudy,Low ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Sports
+ezif478391605,FedEx,4.9,Malad,Airoli,08-03-2022,18:55:00,19:10:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+tixw400453550,DHL,2.5,Ghatkopar,Meera Road,03-04-2022,14:15:00,14:25:00,Windy,High ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Toys
+mrfx777445506,DHL,4.8,Ghatkopar,Meera Road,30-03-2022,11:00:00,11:10:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+czjt755903822,FedEx,5,Bhandup,Palghar,01-04-2022,09:45:00,09:55:00,Sunny,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+zqtj827550147,Dehlivery,4.9,Ghatkopar,Andheri,28-03-2022,08:40:00,08:55:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+luka250567007,DHL,4.8,Ghatkopar,Virar,18-03-2022,23:00:00,23:10:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+zkat983341391,FedEx,4.1,Bhandup,Palghar,14-03-2022,17:25:00,17:30:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+ydhu273019158,India Post,2.5,Bhandup,Bandra,04-04-2022,19:45:00,19:50:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+rpuq263118672,UPS,4.6,Malad,Thane,08-03-2022,19:10:00,19:25:00,Stormy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+nvck471535045,India Post,4.9,Bhandup,Bandra,13-02-2022,10:55:00,11:00:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+rxgx102974679,DHL,4.9,Ghatkopar,Virar,24-03-2022,21:40:00,21:45:00,Sunny,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+ikas794013321,Dehlivery,4.9,Malad,Andheri,19-03-2022,19:00:00,19:15:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+dsyl658069912,India Post,4.8,Bhandup,Bandra,09-03-2022,16:45:00,16:55:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+wzoc344425774,FedEx,5,Malad,Airoli,19-03-2022,11:30:00,11:40:00,Sunny,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+dwnh519656346,UPS,4.9,Malad,Ulhasnagar,03-04-2022,15:10:00,15:15:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+yakw330215137,UPS,4.8,Malad,Ulhasnagar,25-03-2022,22:45:00,22:55:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+dcdm719150402,Dehlivery,5,Ghatkopar,Vasai,13-02-2022,22:10:00,22:25:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+fris321432357,UPS,4.8,Malad,Thane,04-04-2022,20:45:00,20:55:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+mxuw713526914,UPS,2.5,Malad,Ulhasnagar,26-03-2022,22:50:00,23:05:00,Cloudy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+carl449634661,Dehlivery,2.5,Ghatkopar,Vasai,10-03-2022,17:55:00,18:00:00,Sunny,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+msnw786727644,India Post,4.6,Bhandup,Kandivali,14-02-2022,22:45:00,23:00:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+bbow373480117,India Post,4.1,Bhandup,Kandivali,02-03-2022,20:35:00,20:50:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+vizd072469706,UPS,3,Malad,Worli,26-03-2022,09:25:00,09:40:00,Windy,Low ,scooter ,Urban,2,2,Delivered,1,1,Delivered,1,2,2,On Time,Shoes
+etss702593505,FedEx,2.5,Bhandup,Vashi,13-03-2022,20:15:00,20:20:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+rxxx129114996,Dehlivery,4.8,Ghatkopar,Vasai,29-03-2022,22:25:00,22:35:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+bull762076829,FedEx,4.9,Malad,Airoli,30-03-2022,21:55:00,22:00:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+fpkv432118410,UPS,4.4,Malad,Khopoli,12-03-2022,22:40:00,22:55:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+udpq945815554,FedEx,5,Malad,Airoli,31-03-2022,23:50:00,23:55:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+qeqp930384577,FedEx,4.9,Bhandup,Vashi,17-03-2022,15:25:00,15:40:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+cwvq091479872,DHL,4.8,Ghatkopar,Meera Road,15-02-2022,10:20:00,10:30:00,Sandstorms,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+ivtf765857546,India Post,4.9,Bhandup,Kandivali,15-02-2022,20:55:00,21:00:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+emlt327861941,DHL,4.8,Ghatkopar,Virar,07-03-2022,10:40:00,10:50:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+rufz727804632,FedEx,4.8,Bhandup,Palghar,28-03-2022,15:55:00,16:05:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+gkrb550339468,India Post,4.6,Bhandup,Kandivali,16-03-2022,20:10:00,20:15:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+tsec016509855,DHL,2.5,Ghatkopar,Virar,17-03-2022,12:10:00,12:15:00,Sunny,High ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+xczs106918282,UPS,4.6,Malad,Worli,15-03-2022,15:30:00,15:45:00,Fog,Medium ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Outdoors
+lgee738117860,Dehlivery,4.8,Ghatkopar,Vasai,25-03-2022,22:10:00,22:15:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+nxfs257449148,UPS,2.5,Malad,Malad,09-03-2022,10:35:00,10:45:00,Fog,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+wycd588946822,Dehlivery,2.5,Ghatkopar,Andheri,05-03-2022,23:50:00,00:05:00,Fog,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+bhdi726355812,DHL,3,Ghatkopar,Meera Road,11-02-2022,21:10:00,21:25:00,Fog,Jam ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Sports
+wnbv620439671,FedEx,4.1,Bhandup,Palghar,12-03-2022,20:25:00,20:40:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+jvco758418006,India Post,4.6,Bhandup,Kandivali,29-03-2022,20:50:00,21:00:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+zkks967394571,FedEx,2.5,Bhandup,Vikhroli,19-03-2022,12:35:00,12:45:00,Windy,High ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+oiyh656906407,Dehlivery,2.5,Malad,Andheri,10-03-2022,21:00:00,21:15:00,Cloudy,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Apparel
+dfit633531471,UPS,4.8,Malad,Khopoli,16-02-2022,23:40:00,23:55:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+qhxw976953297,Dehlivery,4.4,Ghatkopar,Vasai,27-03-2022,18:15:00,18:20:00,Cloudy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+mryb985330207,Dehlivery,2.5,Ghatkopar,Vasai,27-03-2022,18:20:00,18:25:00,Stormy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Electronics
+jzam829230168,UPS,5,Malad,Khopoli,24-03-2022,11:45:00,11:50:00,Stormy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+xnod694467359,Dehlivery,4.6,Ghatkopar,Vasai,09-03-2022,20:45:00,20:55:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+hcno407153953,India Post,4.8,Bhandup,Kandivali,03-03-2022,21:55:00,22:10:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+gyjc869072111,Dehlivery,4.8,Ghatkopar,Vasai,15-02-2022,12:45:00,12:50:00,Windy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+wkqq813752515,India Post,4.6,Bhandup,Bandra,18-02-2022,23:30:00,23:45:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+vdfj488526028,Dehlivery,5,Ghatkopar,Vasai,01-03-2022,10:50:00,10:55:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+pngq326709686,Dehlivery,4.1,Ghatkopar,Vasai,23-03-2022,21:25:00,21:40:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+caja224507886,UPS,4.6,Malad,Worli,01-04-2022,10:10:00,10:20:00,Stormy,Low ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Outdoors
+hnme204254454,FedEx,2.5,Bhandup,Vikhroli,16-02-2022,23:00:00,23:05:00,Sandstorms,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+uehx759760979,India Post,4.9,Bhandup,Borivali,11-03-2022,08:40:00,08:55:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+sdod930462581,FedEx,4.8,Bhandup,Vashi,14-03-2022,17:50:00,17:55:00,Sunny,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+visy471360404,Dehlivery,5,Ghatkopar,Vasai,18-03-2022,20:25:00,20:40:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+wddq796276216,UPS,1,Malad,Malad,01-04-2022,22:20:00,22:25:00,Sunny,Low ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Outdoors
+pqya338067587,FedEx,2.5,Bhandup,Vashi,04-04-2022,23:40:00,23:50:00,Sandstorms,Low ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+last796029882,FedEx,2.5,Malad,Airoli,11-03-2022,23:25:00,23:30:00,Fog,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+mzyt873581742,FedEx,4.4,Bhandup,Vashi,13-03-2022,12:40:00,12:55:00,Cloudy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+kbhb286226770,DHL,4.8,Ghatkopar,Meera Road,04-03-2022,23:30:00,23:45:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+okvp821614347,Dehlivery,4.8,Ghatkopar,Vasai,26-03-2022,23:55:00,00:10:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+oska955853002,DHL,4.8,Ghatkopar,Virar,16-03-2022,22:50:00,23:00:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+rgwl479077727,Dehlivery,4.6,Ghatkopar,Vasai,01-03-2022,10:25:00,10:40:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+tmzv371880726,Dehlivery,4.1,Ghatkopar,Vasai,15-03-2022,08:45:00,09:00:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+ofxt601212694,Dehlivery,4.6,Malad,Andheri,04-03-2022,21:25:00,21:40:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+lbui872023073,DHL,4.8,Ghatkopar,Virar,18-03-2022,22:35:00,22:40:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+ixfk439251990,DHL,4.1,Ghatkopar,Meera Road,23-03-2022,20:10:00,20:20:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+njfz936670348,Dehlivery,2.5,Malad,Andheri,15-03-2022,10:55:00,11:10:00,Sandstorms,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+drir663128253,UPS,4.1,Malad,Worli,08-03-2022,20:35:00,20:45:00,Cloudy,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Skincare
+drdr957134932,Dehlivery,4.6,Ghatkopar,Vasai,10-03-2022,23:20:00,23:35:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+qrzj427928057,India Post,2.5,Bhandup,Kandivali,11-02-2022,10:35:00,10:50:00,Cloudy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+hkit681446136,Dehlivery,4.6,Malad,Andheri,14-03-2022,23:45:00,23:50:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+imnm972342448,India Post,1.6,Bhandup,Kandivali,16-03-2022,19:55:00,20:00:00,Windy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Books
+wnne890905509,UPS,4.8,Malad,Ulhasnagar,01-03-2022,22:15:00,22:25:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+kbdc711046313,UPS,4.8,Malad,Ulhasnagar,01-03-2022,23:10:00,23:15:00,Sunny,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+alem833315854,DHL,4.8,Ghatkopar,Meera Road,30-03-2022,09:15:00,09:30:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+khjm619520065,FedEx,4.9,Bhandup,Vashi,02-03-2022,18:25:00,18:35:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+oiay843077855,DHL,4.9,Ghatkopar,Meera Road,20-03-2022,22:10:00,22:20:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+ohhc448549441,Dehlivery,4.6,Ghatkopar,Vasai,03-04-2022,20:50:00,21:05:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+knul324217390,India Post,4.1,Bhandup,Kandivali,29-03-2022,18:45:00,18:50:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+buux572471968,India Post,4.8,Bhandup,Bandra,17-03-2022,14:55:00,15:05:00,Sunny,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+ieue797662723,UPS,4.9,Malad,Worli,17-03-2022,16:50:00,17:00:00,Sandstorms,Medium ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Books
+eztk468187811,DHL,3,Ghatkopar,Virar,15-02-2022,22:20:00,22:35:00,Sandstorms,Low ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Skincare
+zzid436960558,DHL,4.9,Ghatkopar,Virar,18-03-2022,00:00:00,00:15:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+kllk327072475,FedEx,2.5,Malad,Airoli,08-03-2022,21:10:00,21:20:00,Fog,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Apparel
+uurs547552548,DHL,1,Ghatkopar,Virar,17-02-2022,23:25:00,23:35:00,Sunny,Low ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Snacks
+ubwl989345056,Dehlivery,4.6,Malad,Andheri,31-03-2022,23:30:00,23:35:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+iimu721647260,FedEx,2.5,Bhandup,Vikhroli,01-03-2022,14:20:00,14:35:00,Sunny,High ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Toys
+tfxz025621580,Dehlivery,5,Ghatkopar,Andheri,03-04-2022,10:15:00,10:25:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+kgjb145446786,UPS,4.6,Malad,Ulhasnagar,24-03-2022,21:20:00,21:35:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+xrxy085440961,UPS,4.9,Malad,Worli,07-03-2022,08:50:00,08:55:00,Fog,Low ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Books
+pnzt689957903,Dehlivery,2.5,Malad,Andheri,09-03-2022,09:00:00,09:05:00,Cloudy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+qrng205617369,DHL,4.9,Ghatkopar,Meera Road,12-03-2022,17:45:00,18:00:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+gycd207308146,UPS,4.8,Malad,Thane,24-03-2022,23:10:00,23:15:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+wqfy256790455,Dehlivery,4.9,Ghatkopar,Vasai,30-03-2022,16:35:00,16:50:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+vgjr167867003,FedEx,4.4,Malad,Airoli,05-03-2022,08:30:00,08:40:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+jqco336937571,DHL,4.6,Ghatkopar,Meera Road,18-03-2022,20:35:00,20:50:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+iwkp065421476,UPS,4.1,Malad,Ulhasnagar,13-03-2022,23:25:00,23:40:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+nwvu459529234,FedEx,5,Bhandup,Vashi,31-03-2022,19:55:00,20:05:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+jjcl090851660,UPS,4.1,Malad,Ulhasnagar,23-03-2022,21:20:00,21:30:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+bpbi053158546,India Post,4.1,Bhandup,Kandivali,24-03-2022,21:45:00,21:50:00,Stormy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+ksec432319879,UPS,4.6,Malad,Malad,12-03-2022,19:40:00,19:55:00,Sunny,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+rszv454658332,UPS,4.6,Malad,Malad,03-03-2022,14:50:00,15:00:00,Sandstorms,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+cdyc438548517,India Post,4.9,Bhandup,Bandra,09-03-2022,18:10:00,18:20:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+xoka811702118,FedEx,2.5,Malad,Airoli,17-03-2022,12:20:00,12:30:00,Cloudy,High ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Skincare
+nyum131271823,UPS,1.6,Malad,Ulhasnagar,18-03-2022,23:40:00,23:50:00,Cloudy,Low ,scooter ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Pet Supplies
+iwoy649851528,India Post,4.6,Bhandup,Bandra,19-03-2022,12:50:00,12:55:00,Windy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+lhus187289759,Dehlivery,4.4,Ghatkopar,Andheri,07-03-2022,23:20:00,23:30:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+szbb646301545,Dehlivery,4.6,Ghatkopar,Vasai,04-03-2022,17:50:00,18:00:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+bwgn919229310,DHL,4.8,Ghatkopar,Virar,03-04-2022,10:25:00,10:35:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+pdxn136638766,FedEx,4.9,Bhandup,Vashi,11-03-2022,09:10:00,09:25:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+zzsx562940707,India Post,4.8,Bhandup,Kandivali,01-04-2022,12:30:00,12:45:00,Cloudy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+gyvm380029078,DHL,2.5,Ghatkopar,Meera Road,20-03-2022,17:10:00,17:20:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Toys
+umwc109456087,DHL,5,Ghatkopar,Meera Road,31-03-2022,19:15:00,19:30:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+dsbe906886027,UPS,4.1,Malad,Malad,13-02-2022,23:50:00,23:55:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+xnzb532907287,FedEx,4.8,Bhandup,Vashi,29-03-2022,18:45:00,18:50:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+ltrp525870768,FedEx,4,Bhandup,Vashi,16-03-2022,20:40:00,20:45:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+rbzk606295253,DHL,4.8,Ghatkopar,Virar,14-03-2022,22:10:00,22:25:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+ltoi660207512,India Post,4.4,Bhandup,Borivali,31-03-2022,17:20:00,17:25:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+pkhq469939766,India Post,4.9,Bhandup,Kandivali,17-03-2022,19:55:00,20:10:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+jgbc287273591,Dehlivery,4.9,Ghatkopar,Vasai,28-03-2022,18:15:00,18:25:00,Stormy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+xzzw562394658,UPS,4.1,Malad,Khopoli,04-04-2022,23:50:00,00:00:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+gjwc226881646,FedEx,4.8,Bhandup,Palghar,04-03-2022,17:25:00,17:35:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+lrbb564302256,FedEx,3,Malad,Airoli,04-03-2022,23:45:00,00:00:00,Stormy,Low ,van,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Shoes
+fkyd365052251,India Post,2.5,Bhandup,Kandivali,14-02-2022,18:30:00,18:35:00,Windy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+wciq107093545,UPS,4.1,Malad,Ulhasnagar,25-03-2022,21:35:00,21:45:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+edxx482704762,India Post,3,Bhandup,Bandra,17-03-2022,08:40:00,08:55:00,Windy,Low ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Books
+jxsj508533395,India Post,2.5,Bhandup,Bandra,01-04-2022,22:35:00,22:40:00,Windy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Grocery
+xlta607070306,FedEx,5,Malad,Airoli,19-03-2022,11:45:00,11:50:00,Windy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+lubd358643567,Dehlivery,4.6,Ghatkopar,Vasai,07-03-2022,23:25:00,23:40:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+ycwb227184501,FedEx,3,Malad,Airoli,02-03-2022,19:10:00,19:15:00,Sunny,Jam ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Kitchen
+mikp615052003,India Post,2.5,Bhandup,Kandivali,16-02-2022,18:45:00,19:00:00,Fog,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Electronics
+djrw974238657,India Post,4.6,Bhandup,Bandra,29-03-2022,18:15:00,18:25:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+rxki994339301,Dehlivery,4.9,Ghatkopar,Vasai,07-03-2022,22:30:00,22:35:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+wfjy432968933,UPS,4.8,Malad,Thane,03-03-2022,19:00:00,19:05:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+opdl820466364,India Post,2.5,Bhandup,Borivali,30-03-2022,13:10:00,13:20:00,Windy,High ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+wbpn330130607,UPS,4.6,Malad,Ulhasnagar,19-03-2022,17:55:00,18:05:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+jtsd466670552,Dehlivery,4.8,Ghatkopar,Vasai,15-03-2022,19:50:00,20:05:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+enww399699472,FedEx,4.9,Bhandup,Palghar,02-03-2022,21:15:00,21:20:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+rvns240114667,India Post,2.5,Bhandup,Kandivali,31-03-2022,19:35:00,19:45:00,Fog,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+fvko144254933,India Post,1.6,Bhandup,Borivali,06-03-2022,19:10:00,19:20:00,Stormy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Kitchen
+jocn049365284,FedEx,2.5,Bhandup,Palghar,21-03-2022,21:20:00,21:30:00,Fog,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+atgc248887447,UPS,2.5,Malad,Malad,01-03-2022,09:50:00,10:05:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+jexa898688264,Dehlivery,4.6,Malad,Andheri,24-03-2022,20:35:00,20:40:00,Stormy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+cmvs014428179,India Post,4.1,Bhandup,Borivali,04-04-2022,21:15:00,21:25:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+ntme294239634,FedEx,4.9,Bhandup,Vashi,02-03-2022,23:00:00,23:15:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+tryr235168039,Dehlivery,4,Ghatkopar,Andheri,01-04-2022,15:00:00,15:10:00,Cloudy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+cpya420089193,Dehlivery,4.1,Ghatkopar,Andheri,12-02-2022,19:45:00,19:50:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+opvd660426426,FedEx,4.9,Bhandup,Vashi,05-04-2022,17:45:00,17:55:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+ecar963502319,DHL,2.5,Ghatkopar,Meera Road,03-03-2022,09:00:00,09:10:00,Sunny,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Electronics
+pbmy587069805,FedEx,2.5,Bhandup,Palghar,06-04-2022,20:00:00,20:05:00,Sunny,Jam ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Apparel
+wasv461278289,DHL,3,Ghatkopar,Meera Road,17-03-2022,12:50:00,12:55:00,Fog,High ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Kitchen
+byhp076235734,DHL,4.6,Ghatkopar,Virar,31-03-2022,21:40:00,21:55:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+ohfh963147472,India Post,5,Bhandup,Bandra,17-02-2022,19:55:00,20:05:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+nkmh560985800,Dehlivery,4.8,Ghatkopar,Andheri,09-03-2022,19:35:00,19:40:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+gvea147758996,UPS,5,Malad,Malad,27-03-2022,22:35:00,22:50:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+cypx969023715,Dehlivery,4.9,Ghatkopar,Andheri,25-03-2022,17:10:00,17:25:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+oamt174420009,UPS,4.8,Malad,Malad,11-03-2022,19:35:00,19:40:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+vmgc964372188,UPS,2.5,Malad,Malad,03-03-2022,10:30:00,10:45:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+jnge623681084,DHL,4.9,Ghatkopar,Meera Road,15-02-2022,18:10:00,18:20:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+kzvx918950241,DHL,4.1,Ghatkopar,Virar,07-03-2022,10:10:00,10:25:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+rlgt572766152,UPS,4,Malad,Ulhasnagar,18-03-2022,17:50:00,18:05:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+lvnz878892159,DHL,3,Ghatkopar,Meera Road,03-04-2022,08:50:00,09:00:00,Fog,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Apparel
+zhyo265634674,UPS,1.6,Malad,Khopoli,06-04-2022,19:55:00,20:10:00,Stormy,Jam ,van,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Apparel
+ezxe128319748,FedEx,4.8,Bhandup,Vashi,06-03-2022,17:55:00,18:10:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+kifq556800414,Dehlivery,2.5,Ghatkopar,Vasai,19-03-2022,15:30:00,15:40:00,Fog,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+carl757119263,UPS,2.5,Malad,Worli,21-03-2022,09:40:00,09:50:00,Windy,Low ,van,Urban,2,0,Failed,1,2,Delivered,2,3,4,SLA Breached,Jewelry
+ywqd911535741,Dehlivery,5,Ghatkopar,Vasai,19-03-2022,18:20:00,18:25:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+ppqt362000534,Dehlivery,3,Malad,Andheri,28-03-2022,15:35:00,15:50:00,Windy,Medium ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Skincare
+czis944259836,UPS,4.1,Malad,Worli,29-03-2022,18:15:00,18:30:00,Sandstorms,Medium ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Skincare
+ibwr067523869,DHL,2.5,Ghatkopar,Virar,17-03-2022,16:55:00,17:00:00,Fog,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Grocery
+fyao616279169,India Post,4.4,Bhandup,Kandivali,29-03-2022,18:10:00,18:15:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+bfvj522482572,DHL,4.8,Ghatkopar,Meera Road,21-03-2022,19:15:00,19:20:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+zeaw181992534,DHL,4.8,Ghatkopar,Meera Road,04-03-2022,18:25:00,18:35:00,Windy,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+tkua467465647,UPS,4.6,Malad,Malad,15-02-2022,20:30:00,20:45:00,Stormy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+ljgp550489562,Dehlivery,4.9,Ghatkopar,Andheri,29-03-2022,22:55:00,23:00:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+hnoc705310037,Dehlivery,5,Ghatkopar,Vasai,13-02-2022,10:55:00,11:00:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+lzkv724137602,FedEx,2.5,Bhandup,Vikhroli,03-04-2022,16:00:00,16:15:00,Windy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+qpqb113436782,UPS,4.9,Malad,Ulhasnagar,13-02-2022,14:50:00,15:05:00,Sunny,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+teij116088130,Dehlivery,2.5,Ghatkopar,Vasai,16-03-2022,20:20:00,20:25:00,Fog,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+zutg690542042,UPS,4.9,Malad,Khopoli,02-04-2022,19:00:00,19:15:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+qphf884454355,FedEx,4.8,Bhandup,Vashi,20-03-2022,18:15:00,18:20:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+fcib257172141,FedEx,4.4,Bhandup,Vashi,29-03-2022,23:35:00,23:50:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+fium151549195,Dehlivery,2.5,Ghatkopar,Andheri,04-03-2022,19:35:00,19:40:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Apparel
+vvnq162473052,UPS,4.6,Malad,Khopoli,27-03-2022,23:35:00,23:45:00,Sunny,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+hhem665543827,DHL,4.8,Ghatkopar,Meera Road,11-02-2022,18:00:00,18:15:00,Stormy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+zfgf746938367,FedEx,2.5,Malad,Airoli,09-03-2022,18:10:00,18:25:00,Fog,Medium ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+nfdj333236314,FedEx,4,Bhandup,Vikhroli,12-03-2022,21:10:00,21:15:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+zfxe533340329,FedEx,4.6,Bhandup,Vashi,04-04-2022,23:40:00,23:50:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+kwmv603335255,FedEx,4.6,Malad,Airoli,11-02-2022,11:00:00,11:10:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+gopn683041817,DHL,4.8,Ghatkopar,Virar,18-02-2022,22:45:00,23:00:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+ppri902151840,India Post,2.5,Bhandup,Borivali,19-03-2022,11:00:00,11:15:00,Sunny,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+libi732501950,Dehlivery,4.9,Malad,Andheri,02-03-2022,23:25:00,23:40:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+kdbu035077095,UPS,4.8,Malad,Worli,14-02-2022,21:00:00,21:10:00,Sunny,Jam ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Books
+mfol662804540,Dehlivery,4.8,Ghatkopar,Andheri,27-03-2022,19:30:00,19:40:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+bdgu970232668,UPS,1,Malad,Malad,04-03-2022,22:55:00,23:05:00,Windy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Toys
+odlo529484325,UPS,3,Malad,Ulhasnagar,06-04-2022,20:25:00,20:40:00,Sunny,Jam ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Pet Supplies
+vxvr447893698,UPS,4.6,Malad,Thane,26-03-2022,12:35:00,12:50:00,Stormy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+fmhd254099683,DHL,4.8,Ghatkopar,Meera Road,11-02-2022,18:55:00,19:00:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+evzr452255970,DHL,4,Ghatkopar,Meera Road,28-03-2022,22:45:00,22:50:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+hdgi344002220,UPS,4.9,Malad,Khopoli,18-03-2022,23:45:00,23:55:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+ypdy132507323,UPS,2.5,Malad,Malad,11-02-2022,15:25:00,15:30:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+vpun175942482,DHL,4.8,Ghatkopar,Meera Road,28-03-2022,11:30:00,11:40:00,Sunny,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+cdkz589624699,UPS,5,Malad,Thane,16-02-2022,22:35:00,22:45:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+kiyg810534481,Dehlivery,2.5,Ghatkopar,Vasai,16-03-2022,23:35:00,23:45:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Grocery
+pwbi898606991,India Post,4.8,Bhandup,Borivali,28-03-2022,10:25:00,10:30:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+taqg748867597,India Post,4.9,Bhandup,Kandivali,03-03-2022,22:20:00,22:30:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+dkgi875489081,Dehlivery,4.9,Ghatkopar,Andheri,13-03-2022,17:15:00,17:20:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+ubag651976139,FedEx,4.4,Malad,Airoli,14-03-2022,21:30:00,21:45:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+zxtz236128998,Dehlivery,4.6,Ghatkopar,Vasai,01-03-2022,18:40:00,18:50:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+hmju318251956,Dehlivery,4.9,Ghatkopar,Vasai,21-03-2022,15:10:00,15:20:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+ltwr528697521,FedEx,3,Malad,Airoli,10-03-2022,22:50:00,23:05:00,Stormy,Low ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Snacks
+jsku204560077,FedEx,4.1,Bhandup,Palghar,20-03-2022,19:30:00,19:40:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+istj070213071,Dehlivery,4.1,Malad,Andheri,06-04-2022,20:30:00,20:35:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+dahw022547497,UPS,3,Malad,Malad,03-04-2022,18:45:00,18:50:00,Sunny,Medium ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Electronics
+vvgj958702360,FedEx,2.5,Bhandup,Vikhroli,12-02-2022,23:10:00,23:20:00,Fog,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Skincare
+rabu202619192,DHL,2.5,Ghatkopar,Meera Road,11-02-2022,11:10:00,11:25:00,Cloudy,High ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Grocery
+aeuj226729421,UPS,4.8,Malad,Malad,05-04-2022,13:50:00,13:55:00,Sunny,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+rbiv368919286,DHL,4.9,Ghatkopar,Virar,05-04-2022,18:40:00,18:45:00,Stormy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+kxfb230420855,FedEx,4.9,Bhandup,Palghar,18-02-2022,21:15:00,21:30:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+hwmm104541576,UPS,4.4,Malad,Worli,12-02-2022,21:45:00,21:55:00,Sandstorms,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Kitchen
+qnwk753395424,UPS,4.9,Malad,Thane,14-02-2022,21:20:00,21:35:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+vvqg343205052,UPS,2.5,Malad,Khopoli,02-03-2022,22:45:00,22:55:00,Fog,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+iuxj806937978,DHL,2.5,Ghatkopar,Virar,04-04-2022,20:10:00,20:20:00,Stormy,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Electronics
+yyny933118563,FedEx,2.5,Bhandup,Vashi,09-03-2022,18:20:00,18:35:00,Fog,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+bwhs416644198,DHL,4.8,Ghatkopar,Virar,12-03-2022,20:40:00,20:45:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+rfxd157515921,DHL,4.8,Ghatkopar,Virar,01-04-2022,10:00:00,10:05:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+pgjt711137922,UPS,3,Malad,Malad,18-02-2022,22:30:00,22:40:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Jewelry
+fxir538138707,FedEx,4.9,Bhandup,Vikhroli,23-03-2022,21:50:00,22:05:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+kezq280741564,India Post,4.1,Bhandup,Borivali,05-03-2022,11:50:00,11:55:00,Stormy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+dqha770938362,FedEx,5,Bhandup,Palghar,27-03-2022,17:25:00,17:35:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+biau131098726,India Post,2.5,Bhandup,Borivali,19-03-2022,21:55:00,22:10:00,Cloudy,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+zkun393659280,UPS,4.1,Malad,Worli,16-02-2022,18:40:00,18:55:00,Cloudy,Medium ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Cosmetics
+lxwa140818117,DHL,3,Ghatkopar,Meera Road,02-03-2022,20:25:00,20:35:00,Windy,Jam ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Home
+uyid942578627,Dehlivery,4.9,Ghatkopar,Vasai,02-03-2022,21:45:00,21:50:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+scqu849553683,UPS,3,Malad,Malad,05-04-2022,22:20:00,22:30:00,Fog,Low ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Books
+mctx146223837,UPS,2.5,Malad,Worli,13-02-2022,20:55:00,21:10:00,Sandstorms,Jam ,scooter ,Urban,2,0,Failed,1,2,Delivered,2,3,4,SLA Breached,Clothing
+cyko979976221,India Post,4.1,Bhandup,Kandivali,14-02-2022,21:35:00,21:40:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+uesw387337499,UPS,4.4,Malad,Ulhasnagar,20-03-2022,21:15:00,21:20:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+wowz415217997,India Post,3,Bhandup,Bandra,11-03-2022,23:30:00,23:35:00,Fog,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Apparel
+uxsb403561931,FedEx,4.9,Bhandup,Vashi,18-02-2022,17:15:00,17:30:00,Cloudy,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+cyye995820696,India Post,1.6,Bhandup,Bandra,04-04-2022,20:45:00,20:55:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Cosmetics
+jbts229431770,India Post,4.9,Bhandup,Borivali,09-03-2022,13:30:00,13:40:00,Cloudy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+iqbd216667101,India Post,4.4,Bhandup,Bandra,18-02-2022,22:00:00,22:10:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+bszz787750715,DHL,4.9,Ghatkopar,Meera Road,20-03-2022,23:20:00,23:30:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+eynm000731182,FedEx,4.9,Bhandup,Palghar,26-03-2022,18:35:00,18:40:00,Fog,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+cdmn013747827,DHL,4.8,Ghatkopar,Virar,29-03-2022,20:40:00,20:55:00,Sandstorms,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+fxuz549696901,UPS,4.8,Malad,Thane,01-03-2022,08:25:00,08:40:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+jtpt648811611,India Post,4,Bhandup,Kandivali,18-03-2022,17:45:00,17:55:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+oxji736034406,UPS,3,Malad,Malad,31-03-2022,22:25:00,22:40:00,Windy,Low ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Home
+rihr033620085,India Post,4.6,Bhandup,Kandivali,30-03-2022,11:30:00,11:40:00,Sandstorms,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+gczg917526696,Dehlivery,4.9,Ghatkopar,Vasai,06-03-2022,21:45:00,21:50:00,Sandstorms,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+svpx912240732,FedEx,5,Bhandup,Vikhroli,05-03-2022,17:25:00,17:30:00,Cloudy,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+asgd164341326,DHL,4.8,Ghatkopar,Virar,26-03-2022,09:40:00,09:45:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+xqcr834027606,Dehlivery,5,Malad,Andheri,16-02-2022,20:55:00,21:05:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+dmrl564554163,UPS,3,Malad,Thane,12-03-2022,17:10:00,17:20:00,Sunny,Medium ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Clothing
+efrs776811164,UPS,5,Malad,Worli,01-03-2022,18:25:00,18:40:00,Stormy,Medium ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Skincare
+ljep947754095,Dehlivery,4.6,Malad,Andheri,16-03-2022,17:55:00,18:00:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+ljfy543933323,FedEx,1.6,Bhandup,Palghar,29-03-2022,19:55:00,20:10:00,Windy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Toys
+fshk983313794,DHL,4.6,Ghatkopar,Virar,05-03-2022,23:00:00,23:05:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+wypw496102732,FedEx,2.5,Bhandup,Palghar,17-02-2022,21:15:00,21:25:00,Sunny,Jam ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+ayns342721271,UPS,4.6,Malad,Khopoli,13-03-2022,10:40:00,10:55:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+thym058259757,India Post,4.8,Bhandup,Kandivali,13-03-2022,11:20:00,11:25:00,Fog,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+lgzn457957462,FedEx,4.8,Malad,Airoli,03-04-2022,18:00:00,18:10:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+qezt047211927,DHL,2.5,Ghatkopar,Meera Road,23-03-2022,17:10:00,17:15:00,Sandstorms,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Pet Supplies
+gzdo509306528,DHL,2.5,Ghatkopar,Meera Road,01-03-2022,18:25:00,18:35:00,Fog,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Pet Supplies
+ersz046238543,FedEx,4.1,Bhandup,Vikhroli,13-03-2022,23:10:00,23:15:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+tgpw108094548,DHL,2.5,Ghatkopar,Virar,29-03-2022,17:15:00,17:30:00,Windy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+inqt227293158,India Post,4.1,Bhandup,Bandra,15-03-2022,11:55:00,12:05:00,Stormy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+mwyi621708115,DHL,4.8,Ghatkopar,Meera Road,09-03-2022,09:30:00,09:45:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+hzpx007931304,FedEx,4.9,Malad,Airoli,05-04-2022,22:40:00,22:50:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+gbab110045112,DHL,5,Ghatkopar,Meera Road,02-04-2022,17:10:00,17:15:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+hvpj165495397,FedEx,4.6,Malad,Airoli,10-03-2022,17:10:00,17:25:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+ceed295586354,Dehlivery,4.6,Ghatkopar,Vasai,23-03-2022,18:30:00,18:40:00,Windy,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+tonn051257985,FedEx,2.5,Bhandup,Vashi,13-03-2022,11:50:00,12:00:00,Sandstorms,High ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Skincare
+erap841821582,UPS,4.6,Malad,Khopoli,07-03-2022,19:00:00,19:10:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+iavt937545530,UPS,4.9,Malad,Worli,18-03-2022,23:55:00,00:10:00,Sandstorms,Low ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Jewelry
+trka856987401,UPS,4.6,Malad,Thane,31-03-2022,19:45:00,19:50:00,Stormy,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+lcgk008504983,DHL,2.5,Ghatkopar,Meera Road,04-04-2022,20:30:00,20:40:00,Windy,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+zqro449286965,India Post,4.9,Bhandup,Kandivali,17-02-2022,11:10:00,11:15:00,Fog,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+syeh579470089,UPS,2.5,Malad,Worli,26-03-2022,09:00:00,09:10:00,Cloudy,Low ,motorcycle ,Urban,2,0,Failed,1,2,Delivered,2,3,4,SLA Breached,Shoes
+zhab316861798,DHL,3,Ghatkopar,Meera Road,28-03-2022,19:30:00,19:35:00,Sandstorms,Jam ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Home
+qqjl805129936,FedEx,5,Bhandup,Vashi,15-03-2022,08:20:00,08:25:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+weco669309017,UPS,4.8,Malad,Thane,17-03-2022,11:00:00,11:05:00,Sunny,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+zbel647135442,UPS,3,Malad,Worli,09-03-2022,20:30:00,20:35:00,Fog,Jam ,motorcycle ,Urban,2,2,Delivered,1,1,Delivered,1,2,2,On Time,Electronics
+emwe467794784,India Post,4.4,Bhandup,Kandivali,02-04-2022,19:45:00,20:00:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+xznm347660092,UPS,2.5,Malad,Khopoli,29-03-2022,22:25:00,22:30:00,Windy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Grocery
+nyfh224947388,UPS,4.4,Malad,Worli,05-03-2022,16:00:00,16:05:00,Sandstorms,Medium ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Grocery
+uvri048682496,DHL,4.6,Ghatkopar,Virar,29-03-2022,21:30:00,21:35:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+bbws342212288,DHL,4.8,Ghatkopar,Meera Road,05-03-2022,15:25:00,15:35:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+wsoh266827723,UPS,4.1,Malad,Ulhasnagar,05-03-2022,17:25:00,17:35:00,Windy,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+leff787822709,India Post,4.6,Bhandup,Bandra,13-03-2022,11:45:00,12:00:00,Stormy,High ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+talu198958493,DHL,3,Ghatkopar,Meera Road,03-03-2022,20:15:00,20:20:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Kitchen
+anfx475383342,UPS,3,Malad,Thane,03-03-2022,10:25:00,10:35:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Electronics
+eddt314765083,DHL,4.9,Ghatkopar,Virar,24-03-2022,08:25:00,08:30:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+pcyt916802893,DHL,2.5,Ghatkopar,Meera Road,15-03-2022,17:15:00,17:20:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Grocery
+ungk686699285,FedEx,4.8,Bhandup,Vikhroli,12-03-2022,22:45:00,22:50:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+jgcy113446649,India Post,4.8,Bhandup,Borivali,13-03-2022,12:35:00,12:40:00,Windy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+ronf620294989,UPS,3,Malad,Worli,05-04-2022,12:20:00,12:25:00,Cloudy,High ,motorcycle ,Urban,2,2,Delivered,1,1,Delivered,1,2,2,On Time,Shoes
+hoxq128553542,FedEx,4.9,Bhandup,Vikhroli,02-03-2022,22:55:00,23:05:00,Sunny,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+pmtg425435413,FedEx,1.6,Malad,Airoli,08-03-2022,17:25:00,17:30:00,Windy,Medium ,van,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Apparel
+qefg170628671,FedEx,3,Bhandup,Vikhroli,21-03-2022,10:35:00,10:45:00,Windy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Apparel
+bdlk287272047,UPS,4.6,Malad,Worli,24-03-2022,21:45:00,22:00:00,Stormy,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Kitchen
+iqem237229463,FedEx,2.5,Bhandup,Vikhroli,11-03-2022,19:50:00,20:05:00,Sunny,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+zazf712069296,Dehlivery,4.6,Ghatkopar,Andheri,10-03-2022,19:30:00,19:35:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+dpcr770207794,UPS,4,Malad,Ulhasnagar,12-03-2022,23:45:00,23:55:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+glsd963477325,India Post,4.8,Bhandup,Kandivali,19-03-2022,14:50:00,15:05:00,Sunny,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+zhhx122382345,Dehlivery,4.8,Malad,Andheri,15-02-2022,08:10:00,08:20:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+titu043025048,UPS,5,Malad,Worli,09-03-2022,21:55:00,22:10:00,Cloudy,Jam ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Shoes
+gyxe336866683,UPS,3,Malad,Worli,13-02-2022,17:10:00,17:15:00,Stormy,Medium ,motorcycle ,Urban,2,2,Delivered,1,1,Delivered,1,2,2,On Time,Jewelry
+zlcm795242431,India Post,4.1,Bhandup,Kandivali,27-03-2022,18:40:00,18:50:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+zdvi265864937,FedEx,4.8,Bhandup,Vashi,21-03-2022,10:15:00,10:20:00,Stormy,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+wduj099075306,India Post,4.1,Bhandup,Bandra,15-03-2022,17:45:00,18:00:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+xhwj851689395,India Post,4.8,Bhandup,Bandra,26-03-2022,21:00:00,21:05:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+opbb084664115,India Post,1.6,Bhandup,Borivali,25-03-2022,20:30:00,20:40:00,Stormy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Electronics
+nplz786278633,UPS,2.5,Malad,Thane,01-03-2022,11:40:00,11:55:00,Stormy,High ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+vfml243571298,FedEx,1.6,Bhandup,Vikhroli,10-03-2022,18:40:00,18:55:00,Stormy,Medium ,scooter ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Shoes
+evto530786855,UPS,4.9,Malad,Worli,27-03-2022,23:15:00,23:25:00,Cloudy,Low ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Skincare
+ckgu502252849,DHL,2.5,Ghatkopar,Virar,11-03-2022,23:35:00,23:40:00,Windy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+tjxh038296843,UPS,4,Malad,Ulhasnagar,14-02-2022,17:45:00,17:55:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+xhlz301038990,Dehlivery,4,Malad,Andheri,29-03-2022,19:00:00,19:15:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+zpnu794398600,UPS,4.9,Malad,Malad,20-03-2022,19:35:00,19:45:00,Windy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+xiuy990187238,India Post,4.8,Bhandup,Borivali,28-03-2022,21:40:00,21:55:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+mupr233190762,FedEx,4.8,Bhandup,Palghar,01-04-2022,20:50:00,21:05:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+pkqs694908430,UPS,4.9,Malad,Ulhasnagar,03-04-2022,20:30:00,20:35:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+qibd572188244,UPS,4.1,Malad,Khopoli,06-03-2022,18:35:00,18:40:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+rwkg752700186,Dehlivery,4.9,Ghatkopar,Vasai,03-04-2022,18:00:00,18:05:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+xukr152686247,FedEx,4.8,Malad,Airoli,10-03-2022,23:15:00,23:30:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+pkts252955495,UPS,4.6,Malad,Malad,18-02-2022,23:40:00,23:55:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+kjef892715538,India Post,4.6,Bhandup,Borivali,17-03-2022,12:45:00,12:55:00,Stormy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+pmpr684370621,Dehlivery,4.9,Ghatkopar,Andheri,13-03-2022,20:15:00,20:20:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+bpyt851249485,India Post,4.8,Bhandup,Kandivali,17-03-2022,15:55:00,16:10:00,Sandstorms,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+fdjp742606171,Dehlivery,3,Ghatkopar,Vasai,16-03-2022,23:10:00,23:15:00,Fog,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Grocery
+deff957321361,FedEx,4.1,Bhandup,Vikhroli,21-03-2022,22:50:00,23:00:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+vakz912181469,Dehlivery,2.5,Ghatkopar,Andheri,09-03-2022,22:45:00,22:55:00,Windy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Grocery
+lxlx275255455,FedEx,2.5,Bhandup,Palghar,03-03-2022,15:10:00,15:15:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+dowq522268038,FedEx,4.1,Bhandup,Vashi,01-04-2022,18:30:00,18:35:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+xdao434795901,Dehlivery,1.6,Ghatkopar,Vasai,06-04-2022,22:35:00,22:50:00,Sunny,Low ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Toys
+qzve473103395,FedEx,4.1,Malad,Airoli,02-04-2022,17:20:00,17:30:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+sgrh968289641,Dehlivery,4.6,Ghatkopar,Andheri,14-02-2022,18:35:00,18:50:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+jpet729617185,UPS,5,Malad,Worli,04-03-2022,19:20:00,19:35:00,Windy,Jam ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Shoes
+tbbu562785662,India Post,4.9,Bhandup,Bandra,20-03-2022,19:10:00,19:25:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+yhct639146328,Dehlivery,4.9,Ghatkopar,Andheri,12-02-2022,23:55:00,00:00:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+vpzi082179640,UPS,4.8,Malad,Ulhasnagar,27-03-2022,23:10:00,23:15:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+wxqg297592780,India Post,4.6,Bhandup,Bandra,10-03-2022,17:45:00,17:50:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+eein393878639,Dehlivery,2.5,Ghatkopar,Andheri,06-03-2022,21:55:00,22:10:00,Sunny,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Skincare
+qkiq165480717,India Post,4.8,Bhandup,Bandra,07-03-2022,20:50:00,20:55:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+hqwk443892657,DHL,4.6,Ghatkopar,Virar,04-04-2022,20:35:00,20:45:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+xkxm865630486,DHL,4.4,Ghatkopar,Meera Road,03-04-2022,22:25:00,22:40:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+bvni933228891,DHL,4,Ghatkopar,Virar,13-03-2022,09:45:00,09:55:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+befv867092423,India Post,3,Bhandup,Borivali,28-03-2022,10:20:00,10:25:00,Windy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Snacks
+hobf254746878,UPS,4,Malad,Thane,15-03-2022,13:30:00,13:45:00,Stormy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+lhfo186255622,UPS,2.5,Malad,Malad,04-04-2022,20:10:00,20:15:00,Sandstorms,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+emki208355100,UPS,4.9,Malad,Ulhasnagar,28-03-2022,12:15:00,12:30:00,Cloudy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+eiug703797186,Dehlivery,4.8,Ghatkopar,Vasai,01-03-2022,08:45:00,08:55:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+gpgw045112006,FedEx,4.8,Malad,Airoli,13-03-2022,15:35:00,15:50:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+pajv540287866,Dehlivery,4.9,Ghatkopar,Andheri,02-04-2022,19:35:00,19:40:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+pfch546197063,DHL,2.5,Ghatkopar,Meera Road,15-03-2022,19:10:00,19:25:00,Cloudy,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+watp349944722,UPS,4.8,Malad,Malad,06-04-2022,22:50:00,22:55:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+ipvd026583007,UPS,4,Malad,Worli,23-03-2022,18:45:00,18:50:00,Windy,Medium ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Sports
+pexn467185751,DHL,4.9,Ghatkopar,Meera Road,25-03-2022,17:25:00,17:35:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+nmla539707523,Dehlivery,5,Ghatkopar,Andheri,27-03-2022,19:00:00,19:15:00,Sandstorms,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+dbuw981669021,India Post,4.8,Bhandup,Borivali,25-03-2022,20:00:00,20:10:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+dbyg819334603,FedEx,4.6,Bhandup,Vikhroli,17-02-2022,13:50:00,13:55:00,Sandstorms,High ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+koew144021127,Dehlivery,3,Malad,Andheri,03-04-2022,08:10:00,08:15:00,Stormy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Apparel
+qmjh777621315,UPS,5,Malad,Malad,12-02-2022,20:55:00,21:10:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+pszf462397050,Dehlivery,4.9,Ghatkopar,Vasai,04-04-2022,19:20:00,19:35:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+figc612141073,DHL,4.9,Ghatkopar,Meera Road,05-03-2022,08:30:00,08:45:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+gpwj834408989,FedEx,4.4,Malad,Airoli,13-02-2022,09:25:00,09:40:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+pwbf401580256,FedEx,2.5,Bhandup,Palghar,01-03-2022,21:30:00,21:40:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Grocery
+vpzj106843126,FedEx,2.5,Bhandup,Palghar,31-03-2022,23:15:00,23:20:00,Stormy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+rpxi920665792,UPS,4.8,Malad,Malad,06-04-2022,23:45:00,23:55:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+vhkj347911892,DHL,4.9,Ghatkopar,Meera Road,23-03-2022,23:30:00,23:35:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+ilfo183800165,UPS,4.6,Malad,Malad,04-04-2022,21:45:00,21:50:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+blgx713939207,DHL,2.5,Ghatkopar,Virar,20-03-2022,20:15:00,20:30:00,Sunny,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+wlra252926669,Dehlivery,4.4,Ghatkopar,Vasai,18-02-2022,20:45:00,21:00:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+vxra135801103,DHL,4.9,Ghatkopar,Virar,11-03-2022,11:35:00,11:50:00,Stormy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+fzng561300776,Dehlivery,4.6,Malad,Andheri,13-03-2022,11:15:00,11:20:00,Windy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+sdij345774967,FedEx,4.1,Malad,Airoli,10-03-2022,18:20:00,18:25:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+ylyn963444268,FedEx,4.6,Bhandup,Palghar,02-03-2022,18:15:00,18:30:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+prwc675910621,DHL,2.5,Ghatkopar,Meera Road,24-03-2022,17:15:00,17:30:00,Windy,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Apparel
+sqjm123634300,India Post,4.4,Bhandup,Kandivali,23-03-2022,22:15:00,22:25:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+bptj463968079,FedEx,4.8,Bhandup,Vikhroli,26-03-2022,22:45:00,22:50:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+njei617905873,UPS,4.9,Malad,Malad,15-03-2022,12:10:00,12:25:00,Cloudy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+nltq801700453,DHL,2.5,Ghatkopar,Meera Road,19-03-2022,08:45:00,08:50:00,Fog,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+jttm849299889,DHL,4.8,Ghatkopar,Meera Road,12-02-2022,22:35:00,22:50:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+dmps249322564,UPS,2.5,Malad,Khopoli,24-03-2022,23:45:00,00:00:00,Sunny,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+gego068198063,India Post,2.5,Bhandup,Bandra,12-02-2022,21:20:00,21:30:00,Fog,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+fptn470372741,India Post,4.6,Bhandup,Kandivali,15-03-2022,20:10:00,20:20:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+gqbu367833799,Dehlivery,5,Ghatkopar,Andheri,04-04-2022,17:25:00,17:30:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+izaj168715864,UPS,4.9,Malad,Worli,18-02-2022,17:50:00,18:00:00,Cloudy,Medium ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Apparel
+fnep523025583,DHL,2.5,Ghatkopar,Meera Road,10-03-2022,23:45:00,23:55:00,Fog,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+prmd574549289,FedEx,4.8,Bhandup,Palghar,13-03-2022,10:00:00,10:05:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+mrjm925736117,India Post,4.6,Bhandup,Kandivali,11-03-2022,18:35:00,18:50:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+bxmi331655934,India Post,5,Bhandup,Kandivali,02-03-2022,23:10:00,23:15:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+mhbw191834924,Dehlivery,4.9,Malad,Andheri,18-02-2022,21:00:00,21:10:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+zgus506380717,FedEx,4.8,Malad,Airoli,07-03-2022,18:35:00,18:40:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+qebb550457670,FedEx,4.8,Malad,Airoli,10-03-2022,21:15:00,21:25:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+nkwa401940966,India Post,2.5,Bhandup,Bandra,06-04-2022,17:20:00,17:35:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Jewelry
+cywj467789158,DHL,4.6,Ghatkopar,Meera Road,03-03-2022,08:20:00,08:30:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+sjkg905066419,DHL,4.6,Ghatkopar,Meera Road,12-02-2022,22:00:00,22:10:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+xntp740548398,UPS,4.1,Malad,Ulhasnagar,10-03-2022,21:00:00,21:05:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+pvcu885016852,Dehlivery,4.6,Malad,Andheri,07-03-2022,11:30:00,11:40:00,Sunny,High ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+xzhm898208742,India Post,4.9,Bhandup,Bandra,09-03-2022,17:25:00,17:40:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+uglc908112005,FedEx,4.4,Bhandup,Vikhroli,05-03-2022,21:45:00,22:00:00,Stormy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+ggni863426619,Dehlivery,2.5,Ghatkopar,Vasai,17-03-2022,22:40:00,22:50:00,Fog,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Toys
+bzru027859331,India Post,2.5,Bhandup,Bandra,17-02-2022,22:40:00,22:50:00,Cloudy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+abfq998863769,DHL,2.5,Ghatkopar,Virar,14-02-2022,22:50:00,23:05:00,Stormy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+wywl453950288,Dehlivery,5,Malad,Andheri,05-03-2022,15:00:00,15:05:00,Fog,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+dypb040671273,FedEx,2.5,Bhandup,Vashi,11-03-2022,10:25:00,10:40:00,Cloudy,Low ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+vqlk306910270,UPS,4.1,Malad,Khopoli,18-03-2022,19:35:00,19:45:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+hvgr961766492,DHL,4.9,Ghatkopar,Meera Road,11-02-2022,11:45:00,12:00:00,Cloudy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+lmam222460100,UPS,2.5,Malad,Thane,14-03-2022,21:15:00,21:30:00,Fog,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Kitchen
+ynfp918283334,FedEx,4,Bhandup,Vashi,30-03-2022,10:25:00,10:35:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+ntqf654847526,DHL,2.5,Ghatkopar,Meera Road,17-03-2022,23:35:00,23:40:00,Stormy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Kitchen
+wltg948769753,DHL,2.5,Ghatkopar,Virar,06-04-2022,23:20:00,23:30:00,Windy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+wfnp526037482,UPS,2.5,Malad,Thane,25-03-2022,18:20:00,18:30:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Apparel
+snnk405400637,FedEx,4.8,Bhandup,Vikhroli,05-04-2022,08:45:00,08:50:00,Cloudy,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+wpqb321718229,Dehlivery,4.8,Ghatkopar,Vasai,14-03-2022,18:25:00,18:40:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+sdoi829127570,India Post,5,Bhandup,Borivali,15-02-2022,21:20:00,21:35:00,Sandstorms,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+idya109511672,FedEx,1.6,Bhandup,Vikhroli,31-03-2022,17:35:00,17:40:00,Windy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Outdoors
+ttrz409682533,Dehlivery,4.9,Ghatkopar,Vasai,20-03-2022,19:30:00,19:35:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+nfya937262694,FedEx,4.6,Malad,Airoli,12-03-2022,21:15:00,21:25:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+lmop404805897,DHL,4.6,Ghatkopar,Meera Road,17-02-2022,11:55:00,12:00:00,Stormy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+ybxm786583586,Dehlivery,4.6,Ghatkopar,Vasai,15-02-2022,17:40:00,17:50:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+enld417016844,DHL,4.9,Ghatkopar,Virar,05-04-2022,14:40:00,14:45:00,Windy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+lmmw269814056,FedEx,4.9,Bhandup,Vikhroli,17-02-2022,22:40:00,22:55:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+iwhg780258471,Dehlivery,2.5,Ghatkopar,Vasai,31-03-2022,18:50:00,18:55:00,Fog,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+iwgk345795951,UPS,4.9,Malad,Thane,12-02-2022,22:15:00,22:20:00,Sandstorms,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+tsgt870627135,FedEx,1.6,Bhandup,Vikhroli,27-03-2022,21:30:00,21:40:00,Stormy,Jam ,scooter ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Electronics
+iceq731335361,Dehlivery,3,Ghatkopar,Vasai,08-03-2022,23:30:00,23:40:00,Stormy,Low ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Electronics
+xiqr562543389,UPS,5,Malad,Ulhasnagar,28-03-2022,20:25:00,20:30:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+ccvj862813862,India Post,4.6,Bhandup,Borivali,21-03-2022,20:10:00,20:20:00,Sandstorms,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+vavf041518880,UPS,4.8,Malad,Worli,16-02-2022,17:30:00,17:45:00,Sunny,Medium ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Snacks
+ojgk976611501,UPS,5,Malad,Thane,14-02-2022,18:00:00,18:15:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+gzhs999389838,UPS,3,Malad,Malad,31-03-2022,19:00:00,19:10:00,Fog,Medium ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Grocery
+lpoo559278752,UPS,4.8,Malad,Thane,16-03-2022,19:50:00,20:00:00,Sandstorms,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+ciiu227813992,India Post,4.8,Bhandup,Kandivali,05-03-2022,21:50:00,22:00:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+dmfn307541025,India Post,4.8,Bhandup,Kandivali,12-03-2022,20:40:00,20:55:00,Windy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+whbe278371630,Dehlivery,4.8,Ghatkopar,Andheri,26-03-2022,09:50:00,10:00:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+ajon496915803,FedEx,4.8,Malad,Airoli,24-03-2022,23:15:00,23:25:00,Stormy,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+fjwn048296205,India Post,4.9,Bhandup,Bandra,11-02-2022,20:30:00,20:45:00,Sandstorms,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+hibb670568838,Dehlivery,4.6,Ghatkopar,Vasai,27-03-2022,23:20:00,23:25:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+mpxz628633412,FedEx,5,Bhandup,Vashi,14-02-2022,19:35:00,19:40:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+rqqt145827294,DHL,2.5,Ghatkopar,Virar,04-03-2022,17:45:00,17:50:00,Fog,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+xrou628500081,DHL,4.6,Ghatkopar,Meera Road,30-03-2022,18:55:00,19:00:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+xnwm549054246,UPS,5,Malad,Malad,21-03-2022,22:35:00,22:45:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+tcjj860782373,FedEx,2.5,Malad,Airoli,05-04-2022,08:30:00,08:35:00,Fog,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+ceoa860679195,Dehlivery,4.1,Malad,Andheri,11-03-2022,10:20:00,10:25:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+ozff337964990,UPS,4.1,Malad,Khopoli,06-04-2022,19:50:00,19:55:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+hdrw273058143,DHL,4.8,Ghatkopar,Virar,06-04-2022,18:20:00,18:30:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+jjpc681328627,DHL,4.9,Ghatkopar,Meera Road,02-04-2022,17:25:00,17:30:00,Stormy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+wnja265203362,UPS,4.4,Malad,Ulhasnagar,12-03-2022,20:25:00,20:30:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+kkkn806065019,FedEx,4.6,Bhandup,Vashi,28-03-2022,19:00:00,19:10:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+ahcl676711139,India Post,4.9,Bhandup,Kandivali,14-03-2022,21:15:00,21:25:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+fnmz024487519,UPS,2.5,Malad,Worli,31-03-2022,22:50:00,23:05:00,Fog,Low ,motorcycle ,Urban,2,0,Failed,1,2,Delivered,2,3,4,SLA Breached,Grocery
+tsnh426803977,DHL,4.1,Ghatkopar,Virar,16-03-2022,18:40:00,18:50:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+jlvk970569104,UPS,1.6,Malad,Khopoli,18-03-2022,20:25:00,20:35:00,Windy,Jam ,scooter ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Skincare
+nkob102431367,Dehlivery,2.5,Ghatkopar,Andheri,05-03-2022,08:20:00,08:25:00,Windy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Pet Supplies
+aitb076913492,DHL,4.9,Ghatkopar,Meera Road,13-03-2022,11:25:00,11:35:00,Stormy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+zzht454845366,DHL,4.6,Ghatkopar,Virar,21-03-2022,18:30:00,18:45:00,Stormy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+penp730595480,DHL,4.9,Ghatkopar,Virar,03-03-2022,11:10:00,11:20:00,Sandstorms,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+tqqq117400105,India Post,3,Bhandup,Kandivali,30-03-2022,18:25:00,18:35:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Books
+wrbr570700916,UPS,4.1,Malad,Worli,24-03-2022,20:40:00,20:45:00,Stormy,Jam ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Grocery
+wzvs619072447,Dehlivery,2.5,Ghatkopar,Vasai,25-03-2022,19:40:00,19:55:00,Stormy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Outdoors
+oini183602327,UPS,5,Malad,Khopoli,30-03-2022,14:50:00,15:05:00,Fog,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+elrp114539975,Dehlivery,4.8,Ghatkopar,Vasai,29-03-2022,17:45:00,18:00:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+fvoq332072223,Dehlivery,2.5,Ghatkopar,Andheri,06-04-2022,22:20:00,22:35:00,Stormy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Skincare
+kemd906602818,UPS,4.6,Malad,Khopoli,21-03-2022,14:25:00,14:30:00,Windy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+kqmi499374214,UPS,4.1,Malad,Ulhasnagar,11-02-2022,09:30:00,09:45:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+qdqs225203666,FedEx,4.8,Malad,Airoli,18-03-2022,23:35:00,23:45:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+ztel491150706,DHL,5,Ghatkopar,Meera Road,15-03-2022,23:15:00,23:20:00,Sunny,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+sfok287655638,FedEx,4.1,Bhandup,Vashi,20-03-2022,19:45:00,20:00:00,Windy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+rbvw350017323,DHL,4.9,Ghatkopar,Meera Road,18-03-2022,17:15:00,17:30:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+evfg719847858,India Post,4.1,Bhandup,Borivali,16-02-2022,20:15:00,20:25:00,Sandstorms,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+kcdr224504524,India Post,2.5,Bhandup,Bandra,11-03-2022,21:10:00,21:20:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+nuxp187566978,UPS,5,Malad,Thane,06-04-2022,19:55:00,20:00:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+ervj934596417,India Post,1.6,Bhandup,Kandivali,16-03-2022,22:15:00,22:20:00,Cloudy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Home
+kqnb541413741,UPS,4,Malad,Ulhasnagar,06-04-2022,21:25:00,21:40:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+oric826953147,UPS,4.9,Malad,Khopoli,05-03-2022,23:50:00,23:55:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+urec609350393,Dehlivery,4.9,Malad,Andheri,18-02-2022,21:25:00,21:35:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+ovti492712870,UPS,4.9,Malad,Khopoli,17-03-2022,23:45:00,00:00:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+brfo817641389,UPS,3,Malad,Malad,18-03-2022,20:55:00,21:00:00,Cloudy,Jam ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Jewelry
+pbsp176319059,FedEx,3,Bhandup,Palghar,18-02-2022,22:45:00,22:50:00,Windy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Clothing
+kfjw636000221,FedEx,4.9,Bhandup,Vikhroli,01-04-2022,12:00:00,12:15:00,Windy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+szso398384860,India Post,4.8,Bhandup,Bandra,02-03-2022,22:25:00,22:30:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+pjbh964684827,FedEx,4.9,Bhandup,Vikhroli,26-03-2022,20:20:00,20:25:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+oaew463729559,UPS,4.9,Malad,Ulhasnagar,07-03-2022,11:00:00,11:10:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+dhru296264034,DHL,4.1,Ghatkopar,Virar,30-03-2022,20:55:00,21:00:00,Fog,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+jrdt044319812,UPS,2.5,Malad,Malad,01-04-2022,18:20:00,18:30:00,Sunny,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+aefs889604846,DHL,4.9,Ghatkopar,Meera Road,03-04-2022,08:10:00,08:20:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+aozl672518026,Dehlivery,4.1,Ghatkopar,Andheri,11-03-2022,23:00:00,23:15:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+fmmu732691037,FedEx,3,Bhandup,Vikhroli,06-04-2022,19:35:00,19:40:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Books
+cmnr733682904,FedEx,4.9,Bhandup,Vikhroli,11-02-2022,23:15:00,23:30:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+velf920731059,DHL,2.5,Ghatkopar,Meera Road,28-03-2022,19:10:00,19:15:00,Stormy,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+grsq278292648,FedEx,4.6,Bhandup,Palghar,06-04-2022,23:20:00,23:30:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+rqha328591539,DHL,2.5,Ghatkopar,Meera Road,12-03-2022,22:35:00,22:40:00,Stormy,Low ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Kitchen
+rhpv487359562,Dehlivery,4.1,Ghatkopar,Vasai,29-03-2022,20:35:00,20:50:00,Cloudy,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+aokn153705465,Dehlivery,3,Ghatkopar,Vasai,15-03-2022,14:25:00,14:30:00,Windy,High ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Books
+tnxr721054246,DHL,4.8,Ghatkopar,Virar,19-03-2022,22:30:00,22:35:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+sxnc962329653,India Post,2.5,Bhandup,Borivali,14-03-2022,18:30:00,18:40:00,Windy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+hsbp920939915,UPS,4.1,Malad,Malad,30-03-2022,12:25:00,12:40:00,Cloudy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+mbhl763139783,Dehlivery,4.8,Ghatkopar,Vasai,29-03-2022,18:55:00,19:10:00,Sandstorms,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+dqml870257443,FedEx,4.8,Bhandup,Vashi,18-02-2022,17:40:00,17:55:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+oipo304682095,UPS,2.5,Malad,Ulhasnagar,09-03-2022,22:30:00,22:35:00,Windy,Low ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+npqc426335347,DHL,4.8,Ghatkopar,Meera Road,09-03-2022,20:20:00,20:30:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+kbcb187418479,Dehlivery,4.6,Ghatkopar,Vasai,11-02-2022,18:20:00,18:25:00,Sunny,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+nvss305715416,DHL,5,Ghatkopar,Virar,23-03-2022,23:55:00,00:05:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+nfbo612860913,India Post,2.5,Bhandup,Kandivali,30-03-2022,18:00:00,18:15:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+bvje827756058,DHL,2.5,Ghatkopar,Meera Road,04-03-2022,18:50:00,19:05:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+tmra080782884,UPS,2.5,Malad,Worli,01-03-2022,16:10:00,16:15:00,Stormy,Medium ,scooter ,Urban,2,0,Failed,1,2,Delivered,2,3,4,SLA Breached,Sports
+gtmc763426867,FedEx,4.9,Bhandup,Vashi,25-03-2022,20:30:00,20:35:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+kjln790080169,India Post,4.8,Bhandup,Borivali,02-03-2022,20:25:00,20:30:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+gqyt412008922,FedEx,4.1,Bhandup,Vikhroli,29-03-2022,18:15:00,18:25:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+hojh303673874,DHL,1.5,Ghatkopar,Virar,20-03-2022,23:50:00,00:05:00,Sunny,Low ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Skincare
+uowo219202183,UPS,1.6,Malad,Worli,06-04-2022,20:25:00,20:30:00,Stormy,Jam ,scooter ,Urban,2,0,Failed,1,0,Failed,Failed,3,4,SLA Breached,Sports
+laly052364040,UPS,4.8,Malad,Ulhasnagar,21-03-2022,09:45:00,10:00:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+seue774035229,DHL,4.6,Ghatkopar,Virar,04-04-2022,19:25:00,19:40:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+hpfx282951824,FedEx,1.6,Bhandup,Vikhroli,10-03-2022,22:20:00,22:30:00,Cloudy,Low ,van,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Cosmetics
+kwac459258247,India Post,4.8,Bhandup,Kandivali,18-03-2022,21:35:00,21:40:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+drnq455410643,DHL,5,Ghatkopar,Meera Road,10-03-2022,23:10:00,23:20:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+cpai239579459,FedEx,1.6,Bhandup,Vikhroli,29-03-2022,23:10:00,23:15:00,Fog,Low ,scooter ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Skincare
+vjqj497482999,UPS,4.9,Malad,Thane,02-03-2022,18:40:00,18:50:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+ikqm848453901,FedEx,4.9,Bhandup,Vikhroli,21-03-2022,08:55:00,09:00:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+escq078763525,DHL,2.5,Ghatkopar,Meera Road,23-03-2022,19:35:00,19:45:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Electronics
+llgk631278832,UPS,4.6,Malad,Khopoli,28-03-2022,11:50:00,12:05:00,Fog,High ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+qpgp954149325,FedEx,5,Bhandup,Vashi,01-03-2022,22:45:00,22:55:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+qhmc638167529,Dehlivery,3,Ghatkopar,Vasai,03-03-2022,08:20:00,08:30:00,Cloudy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Snacks
+qthn147451965,India Post,4.1,Bhandup,Borivali,02-03-2022,19:25:00,19:40:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+sfpc015585430,Dehlivery,5,Ghatkopar,Vasai,03-04-2022,13:40:00,13:55:00,Sunny,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+hllu627872258,UPS,4,Malad,Ulhasnagar,21-03-2022,17:50:00,18:05:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+wrjr749227681,UPS,2.5,Malad,Ulhasnagar,27-03-2022,18:40:00,18:45:00,Sunny,Medium ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Kitchen
+xzrl716784548,Dehlivery,4.6,Malad,Andheri,02-04-2022,19:30:00,19:35:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+mmbt765343357,DHL,4.8,Ghatkopar,Virar,15-03-2022,10:35:00,10:45:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+zayq005312106,Dehlivery,2.5,Ghatkopar,Vasai,20-03-2022,17:50:00,17:55:00,Sandstorms,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+icjn893090853,India Post,3,Bhandup,Borivali,28-03-2022,08:15:00,08:20:00,Windy,Low ,van,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Books
+jwef100439998,UPS,4.8,Malad,Worli,27-03-2022,17:10:00,17:20:00,Sunny,Medium ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Outdoors
+iray690328025,DHL,4.1,Ghatkopar,Virar,18-03-2022,19:50:00,20:00:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+kdbz058571456,FedEx,4.9,Bhandup,Palghar,19-03-2022,20:30:00,20:45:00,Sandstorms,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+qbnx455660626,FedEx,4.1,Bhandup,Palghar,02-03-2022,17:20:00,17:35:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+eibc335635387,FedEx,4.8,Bhandup,Vikhroli,11-02-2022,18:40:00,18:50:00,Sunny,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+kxcm483694128,DHL,1.6,Ghatkopar,Virar,25-03-2022,23:40:00,23:50:00,Sunny,Low ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Kitchen
+lyqs160626048,UPS,4.9,Malad,Thane,07-03-2022,17:20:00,17:25:00,Stormy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+sqpt381009382,FedEx,1.6,Bhandup,Palghar,04-04-2022,22:20:00,22:35:00,Fog,Low ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Toys
+kzec642267375,India Post,4.8,Bhandup,Borivali,11-02-2022,00:00:00,00:10:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+fjsy457667101,UPS,5,Malad,Ulhasnagar,19-03-2022,22:55:00,23:00:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+qcyn693653025,Dehlivery,5,Ghatkopar,Andheri,17-02-2022,22:10:00,22:25:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+zxza102160001,FedEx,4.4,Bhandup,Vashi,16-03-2022,17:55:00,18:05:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+xdus014073429,Dehlivery,4.6,Ghatkopar,Andheri,01-04-2022,19:30:00,19:45:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+kdoi450584961,India Post,4.1,Bhandup,Borivali,14-02-2022,20:45:00,20:50:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+ikkh818371440,Dehlivery,4.1,Ghatkopar,Vasai,08-03-2022,18:30:00,18:35:00,Cloudy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+nqfm352762141,Dehlivery,5,Ghatkopar,Vasai,17-03-2022,12:00:00,12:10:00,Cloudy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+jhfa779664836,UPS,2.5,Malad,Khopoli,14-02-2022,17:25:00,17:35:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+xbxn200447293,FedEx,4.1,Malad,Airoli,30-03-2022,11:45:00,11:55:00,Cloudy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+necv303251571,India Post,4.9,Bhandup,Kandivali,04-04-2022,17:25:00,17:30:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+wqea232651451,FedEx,3,Bhandup,Vikhroli,03-04-2022,20:40:00,20:45:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Apparel
+zhbv507383833,India Post,4.1,Bhandup,Bandra,19-03-2022,22:15:00,22:30:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+vlst254301121,FedEx,4.8,Bhandup,Vashi,13-03-2022,23:10:00,23:20:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+kklz242189792,UPS,4.9,Malad,Malad,20-03-2022,19:40:00,19:55:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+xcpn200806737,UPS,4.4,Malad,Khopoli,02-04-2022,22:10:00,22:25:00,Fog,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+dxuq411671723,UPS,5,Malad,Worli,27-03-2022,21:00:00,21:15:00,Windy,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Cosmetics
+dlxs382799710,DHL,4.8,Ghatkopar,Meera Road,23-03-2022,22:35:00,22:45:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+ltpv954472394,Dehlivery,4.1,Ghatkopar,Vasai,20-03-2022,18:30:00,18:45:00,Cloudy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+oitk739579230,UPS,4.9,Malad,Thane,16-03-2022,19:25:00,19:35:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+pazq694586181,India Post,4.9,Bhandup,Kandivali,14-02-2022,22:35:00,22:40:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+oisq612742703,DHL,5,Ghatkopar,Meera Road,12-03-2022,22:35:00,22:40:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+wzvu432262336,Dehlivery,4.8,Ghatkopar,Vasai,06-03-2022,19:00:00,19:05:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+wper150449859,FedEx,4.8,Bhandup,Palghar,13-02-2022,17:10:00,17:20:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+xzho220714716,Dehlivery,3,Ghatkopar,Vasai,14-02-2022,23:15:00,23:30:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Shoes
+zrwp620728072,DHL,5,Ghatkopar,Meera Road,18-03-2022,19:00:00,19:15:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+gyxw898561903,DHL,2.5,Ghatkopar,Virar,08-03-2022,20:50:00,21:00:00,Cloudy,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+ecem060800309,UPS,2.5,Malad,Thane,04-04-2022,23:35:00,23:45:00,Fog,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+botn800344578,UPS,4.8,Malad,Ulhasnagar,06-03-2022,21:55:00,22:05:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+tqxi045146775,UPS,3,Malad,Thane,31-03-2022,18:50:00,18:55:00,Sunny,Medium ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Books
+kgap585195507,DHL,1.6,Ghatkopar,Meera Road,11-02-2022,20:40:00,20:45:00,Sunny,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Cosmetics
+dmfj519519219,Dehlivery,4.9,Ghatkopar,Andheri,18-03-2022,21:45:00,22:00:00,Stormy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+tjib241378229,FedEx,4.6,Bhandup,Vikhroli,13-02-2022,10:00:00,10:15:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+cads491909704,Dehlivery,4.8,Ghatkopar,Vasai,09-03-2022,12:00:00,12:15:00,Sandstorms,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+yoxg386579172,FedEx,4.8,Bhandup,Palghar,04-04-2022,20:25:00,20:40:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+jgze646200858,UPS,2.5,Malad,Ulhasnagar,05-04-2022,19:50:00,20:05:00,Sunny,Jam ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+ugdy034169362,DHL,2.5,Ghatkopar,Meera Road,18-02-2022,22:30:00,22:45:00,Sunny,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Kitchen
+xzbl323280136,UPS,4,Malad,Worli,03-03-2022,10:55:00,11:00:00,Stormy,Low ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Shoes
+lqyq813452304,Dehlivery,2.5,Ghatkopar,Vasai,11-02-2022,17:45:00,18:00:00,Sunny,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+pchy611585669,UPS,5,Malad,Malad,19-03-2022,20:40:00,20:55:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+okgr359664734,DHL,4.8,Ghatkopar,Meera Road,26-03-2022,20:25:00,20:40:00,Sandstorms,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+wzel129960984,DHL,2.5,Ghatkopar,Virar,14-03-2022,21:00:00,21:10:00,Fog,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+fhco827148157,FedEx,5,Malad,Airoli,23-03-2022,17:40:00,17:55:00,Sunny,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+bcww473893145,Dehlivery,4.8,Ghatkopar,Vasai,12-03-2022,21:15:00,21:25:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+azgk940712115,Dehlivery,4.8,Ghatkopar,Vasai,24-03-2022,17:20:00,17:35:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+bzoo769001078,UPS,4.4,Malad,Ulhasnagar,04-03-2022,22:20:00,22:25:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+ubcd783242087,India Post,4.8,Bhandup,Borivali,21-03-2022,17:00:00,17:05:00,Sunny,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+jiyc198145687,DHL,4.6,Ghatkopar,Virar,12-02-2022,21:30:00,21:45:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+kscw878662353,FedEx,2.5,Bhandup,Palghar,01-04-2022,10:00:00,10:10:00,Sunny,Low ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Kitchen
+kvqk488778566,FedEx,1.6,Bhandup,Vikhroli,18-03-2022,22:15:00,22:30:00,Cloudy,Low ,scooter ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Apparel
+kpjr226562494,DHL,4.8,Ghatkopar,Meera Road,08-03-2022,22:40:00,22:45:00,Sunny,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+igvi130716526,UPS,4.6,Malad,Malad,05-03-2022,08:20:00,08:35:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+fkun064220230,DHL,1.6,Ghatkopar,Meera Road,28-03-2022,21:55:00,22:10:00,Sunny,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Books
+lyyj446897623,UPS,4.1,Malad,Khopoli,02-03-2022,19:20:00,19:30:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+vdsc242802639,Dehlivery,4.4,Ghatkopar,Vasai,19-03-2022,20:45:00,20:50:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+ittj864611306,FedEx,4,Bhandup,Palghar,16-02-2022,21:35:00,21:50:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+jzzk349096295,UPS,4.8,Malad,Thane,03-03-2022,09:35:00,09:50:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+sdxs740704107,DHL,5,Ghatkopar,Virar,09-03-2022,20:35:00,20:40:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+mttu695236585,DHL,4.8,Ghatkopar,Virar,31-03-2022,20:35:00,20:45:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+ooki837835398,UPS,4.1,Malad,Worli,07-03-2022,09:30:00,09:35:00,Stormy,Low ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Books
+yogd343858268,DHL,4.9,Ghatkopar,Virar,09-03-2022,08:35:00,08:50:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+gcvw047760888,FedEx,4.6,Bhandup,Vikhroli,19-03-2022,20:10:00,20:25:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+jrpn294896376,UPS,2.5,Malad,Khopoli,19-03-2022,11:15:00,11:30:00,Fog,High ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+urgh719421847,DHL,4.8,Ghatkopar,Meera Road,30-03-2022,16:15:00,16:25:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+xwtx438995455,DHL,5,Ghatkopar,Meera Road,02-03-2022,20:35:00,20:50:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+sccp018255873,India Post,4.6,Bhandup,Kandivali,17-02-2022,23:00:00,23:10:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+xxor408538921,Dehlivery,2.5,Malad,Andheri,03-03-2022,08:20:00,08:30:00,Sandstorms,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+jrzw710510668,FedEx,4.8,Bhandup,Palghar,11-03-2022,09:15:00,09:30:00,Stormy,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+eggk782414616,Dehlivery,4.8,Ghatkopar,Vasai,06-04-2022,19:55:00,20:05:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+hidy261467651,Dehlivery,4.9,Ghatkopar,Vasai,17-02-2022,18:15:00,18:30:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+jptb980554885,UPS,4.8,Malad,Thane,05-03-2022,16:35:00,16:50:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+vpsf780953121,FedEx,4.6,Malad,Airoli,27-03-2022,22:50:00,23:00:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+yzbx667733486,FedEx,4.9,Bhandup,Palghar,28-03-2022,23:40:00,23:45:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+hxog930219425,UPS,4.9,Malad,Khopoli,06-04-2022,21:15:00,21:30:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+jkkv014691736,UPS,4.9,Malad,Ulhasnagar,01-03-2022,23:40:00,23:55:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+sfrj659517575,UPS,4.8,Malad,Ulhasnagar,16-03-2022,17:10:00,17:15:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+onok376892035,Dehlivery,2.5,Ghatkopar,Vasai,11-02-2022,10:40:00,10:45:00,Windy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+xnmd060157935,FedEx,5,Malad,Airoli,03-03-2022,09:10:00,09:15:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+mzeb245970250,India Post,4.6,Bhandup,Kandivali,14-02-2022,18:25:00,18:40:00,Sunny,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+nuyk105990581,India Post,3,Bhandup,Bandra,11-02-2022,22:35:00,22:40:00,Stormy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Outdoors
+qodg716991505,Dehlivery,4.8,Ghatkopar,Andheri,01-03-2022,18:35:00,18:45:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+cvog500284478,FedEx,4.4,Bhandup,Palghar,26-03-2022,18:30:00,18:35:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+jwdp033586938,UPS,4.8,Malad,Malad,17-02-2022,11:00:00,11:05:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+ggxk185781605,Dehlivery,4.8,Ghatkopar,Vasai,19-03-2022,10:55:00,11:10:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+jysr427028144,Dehlivery,4.9,Ghatkopar,Vasai,06-04-2022,17:45:00,17:55:00,Sandstorms,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+apll985655975,DHL,3,Ghatkopar,Meera Road,24-03-2022,13:20:00,13:35:00,Sandstorms,High ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Pet Supplies
+ybmg115603702,UPS,5,Malad,Thane,06-03-2022,23:30:00,23:35:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+hgvp189522861,UPS,5,Malad,Malad,07-03-2022,10:20:00,10:35:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+wjsm256325267,India Post,4.8,Bhandup,Bandra,30-03-2022,09:00:00,09:15:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+mirt199087171,UPS,4.8,Malad,Khopoli,17-02-2022,10:20:00,10:25:00,Sandstorms,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+wigz116241077,DHL,5,Ghatkopar,Virar,12-03-2022,17:20:00,17:35:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+djni578384701,FedEx,3,Bhandup,Vashi,12-02-2022,22:10:00,22:20:00,Windy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Electronics
+booz176813299,India Post,3,Bhandup,Kandivali,02-03-2022,00:00:00,00:05:00,Fog,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Electronics
+yrxv783282166,UPS,4.9,Malad,Thane,09-03-2022,17:45:00,17:55:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+mjzv475761405,UPS,4.8,Malad,Worli,03-04-2022,08:55:00,09:00:00,Fog,Low ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Toys
+vogj512177127,India Post,4.9,Bhandup,Borivali,01-03-2022,18:40:00,18:55:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+vmcr655255820,UPS,2.5,Malad,Worli,12-02-2022,18:15:00,18:30:00,Sandstorms,Medium ,scooter ,Urban,2,0,Failed,1,2,Delivered,2,3,4,SLA Breached,Sports
+sbaj018996229,FedEx,4.8,Bhandup,Palghar,29-03-2022,19:55:00,20:10:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+mivz461407242,FedEx,4.8,Malad,Airoli,17-02-2022,22:20:00,22:30:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+rdus129341681,Dehlivery,4.9,Malad,Andheri,29-03-2022,20:55:00,21:00:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+fump208124017,UPS,4.9,Malad,Thane,08-03-2022,20:00:00,20:15:00,Sandstorms,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+zzdt398224350,Dehlivery,4.6,Malad,Andheri,05-04-2022,15:50:00,15:55:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+rosu742347769,DHL,5,Ghatkopar,Virar,12-03-2022,21:55:00,22:05:00,Windy,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+mltg533186640,India Post,4.1,Bhandup,Bandra,06-04-2022,22:00:00,22:15:00,Stormy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+griq568538346,FedEx,4.9,Bhandup,Vashi,15-03-2022,18:35:00,18:40:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+ulic859633079,UPS,4.9,Malad,Worli,18-02-2022,21:55:00,22:00:00,Fog,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Grocery
+hikf286518789,India Post,4.8,Bhandup,Borivali,24-03-2022,23:10:00,23:15:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+izvl399117454,India Post,4.8,Bhandup,Borivali,01-03-2022,20:25:00,20:35:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+tbln574225506,Dehlivery,5,Malad,Andheri,11-02-2022,23:55:00,00:10:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+sgep605324393,UPS,4.4,Malad,Ulhasnagar,25-03-2022,19:35:00,19:40:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+sgrv807655331,DHL,4.1,Ghatkopar,Meera Road,15-03-2022,10:00:00,10:15:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+ltuo081712610,Dehlivery,2.5,Ghatkopar,Andheri,04-04-2022,21:35:00,21:50:00,Windy,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Jewelry
+xbhq884931942,DHL,4.9,Ghatkopar,Virar,10-03-2022,18:25:00,18:30:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+nymu234606643,FedEx,4.8,Bhandup,Vashi,06-04-2022,20:50:00,21:00:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+qnht214154545,FedEx,2.5,Bhandup,Vikhroli,28-03-2022,12:45:00,13:00:00,Fog,High ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Kitchen
+itfi259801851,DHL,4.9,Ghatkopar,Meera Road,31-03-2022,22:15:00,22:20:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+vhkd487067380,Dehlivery,4.1,Ghatkopar,Vasai,24-03-2022,22:10:00,22:20:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+kbln393702128,FedEx,4.6,Bhandup,Vashi,23-03-2022,21:10:00,21:15:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+kjni870891929,Dehlivery,2.5,Malad,Andheri,10-03-2022,22:50:00,23:00:00,Fog,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Pet Supplies
+ognp232305886,FedEx,4.1,Bhandup,Palghar,17-02-2022,10:15:00,10:25:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+guht709314264,UPS,4.8,Malad,Ulhasnagar,26-03-2022,14:40:00,14:45:00,Stormy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+vazf926651495,FedEx,4.8,Malad,Airoli,12-02-2022,23:30:00,23:40:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+gwsn039100496,DHL,5,Ghatkopar,Virar,02-03-2022,21:00:00,21:10:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+fvvr839976631,DHL,3,Ghatkopar,Virar,31-03-2022,18:45:00,18:50:00,Windy,Medium ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Snacks
+hvcw149352257,UPS,2.5,Malad,Malad,25-03-2022,17:25:00,17:35:00,Sunny,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Outdoors
+nsor575698541,UPS,4.8,Malad,Malad,28-03-2022,15:20:00,15:35:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+noiv975543322,UPS,5,Malad,Khopoli,15-02-2022,23:15:00,23:25:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+axtz155758687,India Post,4.9,Bhandup,Kandivali,09-03-2022,10:50:00,10:55:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+cqkf340722182,FedEx,4.1,Bhandup,Vikhroli,03-04-2022,17:25:00,17:30:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+uzno711040707,FedEx,4.8,Bhandup,Vashi,05-04-2022,08:50:00,09:05:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+yucd410527852,UPS,4.9,Malad,Khopoli,11-03-2022,19:45:00,19:50:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+hnhg555883986,UPS,4.8,Malad,Malad,19-03-2022,19:55:00,20:00:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+larg251421075,Dehlivery,2.5,Ghatkopar,Vasai,09-03-2022,23:30:00,23:35:00,Windy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+mqhw773310802,India Post,4.8,Bhandup,Bandra,03-04-2022,08:25:00,08:35:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+znys264264304,UPS,4.8,Malad,Khopoli,08-03-2022,23:25:00,23:30:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+jbvi392181477,DHL,2.5,Ghatkopar,Meera Road,13-03-2022,23:45:00,00:00:00,Sunny,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Electronics
+hamx365036358,FedEx,2.5,Malad,Airoli,24-03-2022,18:45:00,18:50:00,Sunny,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Outdoors
+euea467890264,India Post,4.4,Bhandup,Kandivali,14-03-2022,22:00:00,22:05:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+fyhn937992389,Dehlivery,4.8,Ghatkopar,Vasai,01-04-2022,22:30:00,22:45:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+brjp572494933,Dehlivery,2.5,Ghatkopar,Andheri,11-02-2022,23:35:00,23:40:00,Stormy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+ywqt342960968,UPS,5,Malad,Khopoli,03-03-2022,08:20:00,08:35:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+oifg249484577,India Post,2.5,Bhandup,Bandra,17-02-2022,08:35:00,08:40:00,Fog,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Apparel
+amwt677706239,India Post,2.5,Bhandup,Kandivali,11-02-2022,09:45:00,09:55:00,Fog,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+bvka348874203,DHL,4.9,Ghatkopar,Meera Road,02-03-2022,18:50:00,18:55:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+xncp919063413,UPS,4.1,Malad,Ulhasnagar,21-03-2022,16:20:00,16:25:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+dzja169620854,India Post,4.9,Bhandup,Borivali,03-03-2022,14:30:00,14:35:00,Sandstorms,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+mfkm295992455,FedEx,4.9,Bhandup,Palghar,12-02-2022,17:30:00,17:40:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+kljo727155219,India Post,4.9,Bhandup,Kandivali,05-03-2022,17:40:00,17:50:00,Cloudy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+crwj681968834,UPS,4.8,Malad,Ulhasnagar,01-04-2022,18:30:00,18:45:00,Sunny,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+xigp305225329,India Post,4.1,Bhandup,Kandivali,05-04-2022,08:15:00,08:20:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+orkh922812379,Dehlivery,2.5,Ghatkopar,Andheri,05-03-2022,19:25:00,19:35:00,Stormy,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+epws628648070,India Post,4.1,Bhandup,Kandivali,28-03-2022,22:00:00,22:05:00,Stormy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+vjso332723361,UPS,4,Malad,Worli,11-02-2022,21:30:00,21:45:00,Sandstorms,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Shoes
+bncl161561536,FedEx,4.9,Bhandup,Vikhroli,27-03-2022,21:30:00,21:35:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+phdn272715324,Dehlivery,4.8,Ghatkopar,Vasai,28-03-2022,15:45:00,15:55:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+sojs277662991,India Post,5,Bhandup,Borivali,21-03-2022,17:10:00,17:20:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+plbh544658611,India Post,4.9,Bhandup,Kandivali,17-03-2022,19:15:00,19:30:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+dwpz461110458,FedEx,4.1,Malad,Airoli,24-03-2022,17:00:00,17:15:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+iegb214834761,UPS,2.5,Malad,Khopoli,07-03-2022,16:40:00,16:50:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+ocwa633756358,UPS,4.4,Malad,Khopoli,18-03-2022,17:50:00,18:00:00,Cloudy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+xxku620056780,DHL,4.9,Ghatkopar,Meera Road,21-03-2022,17:55:00,18:05:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+vkzz832219130,DHL,3,Ghatkopar,Meera Road,30-03-2022,13:20:00,13:35:00,Sunny,High ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Pet Supplies
+ohzf165095441,UPS,4.6,Malad,Thane,13-02-2022,17:20:00,17:35:00,Cloudy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+wafx978606463,Dehlivery,4.6,Ghatkopar,Andheri,13-02-2022,11:30:00,11:35:00,Fog,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+mjny778475225,UPS,4.1,Malad,Ulhasnagar,13-02-2022,12:00:00,12:10:00,Windy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+lfkr680811422,Dehlivery,4.6,Malad,Andheri,12-02-2022,19:25:00,19:30:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+fakz515425358,UPS,5,Malad,Worli,29-03-2022,21:10:00,21:25:00,Sandstorms,Jam ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Skincare
+intd941914908,DHL,4.9,Ghatkopar,Virar,30-03-2022,09:40:00,09:55:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+mmnq033985559,Dehlivery,4.9,Ghatkopar,Andheri,07-03-2022,19:20:00,19:25:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+egyg586560007,FedEx,5,Bhandup,Vikhroli,08-03-2022,19:00:00,19:10:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+tsjg989601604,India Post,2.5,Bhandup,Bandra,26-03-2022,18:20:00,18:35:00,Windy,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Apparel
+dyyv405381763,DHL,4.9,Ghatkopar,Meera Road,01-03-2022,18:30:00,18:35:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+ypoi593771415,UPS,4.6,Malad,Thane,09-03-2022,18:30:00,18:35:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+iwqj434088008,DHL,4.8,Ghatkopar,Virar,05-04-2022,10:20:00,10:35:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+gvoc220746028,FedEx,2.5,Malad,Airoli,29-03-2022,20:20:00,20:30:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Outdoors
+owjw109017720,India Post,3,Bhandup,Bandra,15-03-2022,23:00:00,23:10:00,Fog,Low ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Kitchen
+wnua569339256,DHL,4.9,Ghatkopar,Virar,31-03-2022,19:50:00,20:00:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+rkkn946013798,UPS,5,Malad,Malad,10-03-2022,22:00:00,22:15:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+sedz438633697,UPS,4.6,Malad,Worli,24-03-2022,23:35:00,23:50:00,Cloudy,Low ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Cosmetics
+phvu276201595,FedEx,4.9,Bhandup,Vashi,13-02-2022,22:35:00,22:50:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+yzco846093054,India Post,2.5,Bhandup,Bandra,28-03-2022,23:40:00,23:50:00,Fog,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+kbxz166579673,UPS,4.8,Malad,Ulhasnagar,05-03-2022,10:40:00,10:50:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+jsvc767291402,DHL,4.9,Ghatkopar,Meera Road,07-03-2022,18:25:00,18:30:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+rbfe187517457,FedEx,3,Bhandup,Palghar,10-03-2022,20:45:00,21:00:00,Stormy,Jam ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Cosmetics
+bsrk558755933,FedEx,4.9,Bhandup,Vashi,23-03-2022,22:20:00,22:25:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+dgye215214408,FedEx,3,Bhandup,Vikhroli,30-03-2022,20:40:00,20:50:00,Windy,Jam ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Shoes
+eyhx467155501,Dehlivery,3,Ghatkopar,Andheri,17-02-2022,11:00:00,11:10:00,Fog,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Home
+cpvr765393098,India Post,2.5,Bhandup,Kandivali,08-03-2022,19:55:00,20:05:00,Sunny,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+jrzz070590798,FedEx,2.5,Malad,Airoli,15-03-2022,09:15:00,09:25:00,Sunny,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Electronics
+wpvn370540505,FedEx,4.9,Bhandup,Vashi,10-03-2022,17:55:00,18:05:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+tifw976395462,FedEx,4.6,Bhandup,Vashi,18-02-2022,22:25:00,22:40:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+icti836263169,Dehlivery,3,Malad,Andheri,01-04-2022,11:15:00,11:30:00,Cloudy,High ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Kitchen
+kddb655628516,India Post,4.8,Bhandup,Bandra,11-02-2022,21:35:00,21:40:00,Stormy,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+vnhq327619759,UPS,2.5,Malad,Thane,19-03-2022,23:20:00,23:35:00,Cloudy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+npch760309383,DHL,2.5,Ghatkopar,Meera Road,04-03-2022,22:50:00,23:05:00,Sandstorms,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Kitchen
+evvs500014087,UPS,4.1,Malad,Thane,15-03-2022,10:35:00,10:50:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+tech899419111,Dehlivery,1.6,Ghatkopar,Andheri,13-03-2022,20:35:00,20:40:00,Sunny,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Jewelry
+gtvm381235972,India Post,2.5,Bhandup,Kandivali,11-03-2022,16:45:00,16:55:00,Fog,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+omzj432297634,Dehlivery,4.8,Malad,Andheri,15-02-2022,09:10:00,09:15:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+essy604523183,India Post,2.5,Bhandup,Borivali,11-02-2022,17:40:00,17:45:00,Sunny,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Toys
+cusu248875311,UPS,4.1,Malad,Worli,30-03-2022,21:55:00,22:00:00,Stormy,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Toys
+edco522391392,Dehlivery,5,Ghatkopar,Vasai,10-03-2022,19:35:00,19:50:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+ctoj872363102,India Post,4.9,Bhandup,Borivali,01-04-2022,21:10:00,21:20:00,Windy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+taqs429293566,FedEx,4.9,Malad,Airoli,12-03-2022,18:15:00,18:30:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+vqty702282323,UPS,2.5,Malad,Ulhasnagar,15-03-2022,16:55:00,17:05:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Jewelry
+rpge560994264,DHL,4.6,Ghatkopar,Virar,28-03-2022,09:20:00,09:30:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+rqcs923125271,Dehlivery,4.8,Malad,Andheri,14-03-2022,22:20:00,22:35:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+bkmx082772212,UPS,4.9,Malad,Ulhasnagar,26-03-2022,23:50:00,00:05:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+cfhn315113890,UPS,3,Malad,Malad,16-03-2022,23:35:00,23:50:00,Windy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Skincare
+adiv498964791,Dehlivery,4.1,Malad,Andheri,05-03-2022,23:30:00,23:45:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+hojv987068372,FedEx,5,Bhandup,Palghar,26-03-2022,11:15:00,11:25:00,Stormy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+zvkx405674622,FedEx,3,Bhandup,Vikhroli,04-04-2022,17:55:00,18:10:00,Stormy,Medium ,van,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Kitchen
+fgzk425074716,FedEx,4.1,Bhandup,Vashi,01-04-2022,18:30:00,18:45:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+paom510411686,India Post,5,Bhandup,Borivali,19-03-2022,12:00:00,12:05:00,Cloudy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+nung093192090,Dehlivery,4.6,Ghatkopar,Vasai,13-02-2022,22:45:00,23:00:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+fwvo451250409,Dehlivery,4.8,Malad,Andheri,12-02-2022,19:40:00,19:50:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+awyc243905733,FedEx,2.5,Malad,Airoli,09-03-2022,00:00:00,00:15:00,Sunny,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Outdoors
+unic591472044,UPS,4.8,Malad,Worli,05-04-2022,20:45:00,21:00:00,Fog,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Jewelry
+nhdk983966912,UPS,4.9,Malad,Thane,09-03-2022,18:55:00,19:05:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+kgbi202766353,Dehlivery,4.1,Ghatkopar,Vasai,05-04-2022,08:20:00,08:25:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+rxrk922214537,FedEx,2.5,Bhandup,Vashi,07-03-2022,11:50:00,12:05:00,Windy,High ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+iauj712732773,Dehlivery,4.9,Ghatkopar,Andheri,31-03-2022,21:35:00,21:40:00,Sandstorms,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+itdi360890843,DHL,5,Ghatkopar,Virar,06-04-2022,21:10:00,21:25:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+ziyc225083622,India Post,4.9,Bhandup,Kandivali,14-03-2022,21:30:00,21:45:00,Windy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+cuql549797849,FedEx,2.5,Bhandup,Vikhroli,17-02-2022,21:25:00,21:35:00,Fog,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+uihw861416295,FedEx,4.8,Malad,Airoli,17-02-2022,09:30:00,09:40:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+cmqf429277404,UPS,4.6,Malad,Ulhasnagar,05-03-2022,18:45:00,18:50:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+iypw167065359,FedEx,5,Bhandup,Palghar,01-04-2022,14:55:00,15:00:00,Cloudy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+aecv597151350,UPS,2.5,Malad,Malad,06-04-2022,18:55:00,19:05:00,Sandstorms,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+addp276655174,UPS,1.6,Malad,Worli,18-03-2022,19:35:00,19:40:00,Windy,Jam ,motorcycle ,Urban,2,0,Failed,1,0,Failed,Failed,3,4,SLA Breached,Sports
+jvev469820141,UPS,4,Malad,Malad,12-03-2022,21:20:00,21:30:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+twuy336541938,DHL,4.9,Ghatkopar,Virar,28-03-2022,13:00:00,13:10:00,Windy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+uotq333364336,Dehlivery,5,Ghatkopar,Vasai,07-03-2022,12:00:00,12:15:00,Stormy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+opdf699695945,India Post,2.5,Bhandup,Kandivali,09-03-2022,08:25:00,08:30:00,Fog,Low ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Clothing
+vwml283310596,DHL,4.9,Ghatkopar,Meera Road,05-03-2022,11:35:00,11:40:00,Windy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+jlwh564514757,UPS,4.6,Malad,Ulhasnagar,06-04-2022,22:20:00,22:30:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+fdng780283298,DHL,4.9,Ghatkopar,Virar,02-03-2022,23:20:00,23:35:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+rmle339606284,FedEx,2.5,Bhandup,Vikhroli,12-02-2022,21:15:00,21:30:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+fokf045562405,UPS,4.9,Malad,Malad,09-03-2022,18:35:00,18:50:00,Sunny,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+mmhe959868409,FedEx,4.8,Bhandup,Vikhroli,14-03-2022,23:10:00,23:20:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+rzbq717508778,Dehlivery,4.8,Ghatkopar,Vasai,15-02-2022,16:50:00,17:00:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+pgae607790008,Dehlivery,4.9,Ghatkopar,Vasai,26-03-2022,17:10:00,17:15:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+hpua184773788,FedEx,4.8,Bhandup,Palghar,13-03-2022,19:10:00,19:20:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+gggb753628772,Dehlivery,3,Ghatkopar,Vasai,15-03-2022,23:40:00,23:45:00,Fog,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Home
+yskx271672040,UPS,4.6,Malad,Thane,17-03-2022,10:00:00,10:05:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+vwhm385500781,DHL,4.9,Ghatkopar,Meera Road,27-03-2022,22:25:00,22:35:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+agux910512982,India Post,5,Bhandup,Bandra,02-04-2022,17:25:00,17:40:00,Sandstorms,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+jume050100672,India Post,1.6,Bhandup,Borivali,18-02-2022,23:10:00,23:15:00,Fog,Low ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Toys
+mafw581032294,FedEx,4.8,Bhandup,Vikhroli,05-04-2022,08:20:00,08:30:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+nrmz910220511,UPS,2.5,Malad,Malad,05-03-2022,10:15:00,10:30:00,Sunny,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+goym112724831,Dehlivery,4.4,Malad,Andheri,27-03-2022,17:30:00,17:35:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+mcjg202506760,Dehlivery,4.1,Malad,Andheri,23-03-2022,19:40:00,19:45:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+gvjx942268592,India Post,4.8,Bhandup,Borivali,07-03-2022,10:35:00,10:45:00,Windy,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+oosb954281783,India Post,4.1,Bhandup,Bandra,10-03-2022,18:30:00,18:45:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+msst937092386,India Post,5,Bhandup,Bandra,11-03-2022,18:10:00,18:25:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+yarl392103492,FedEx,4.6,Bhandup,Palghar,02-03-2022,18:10:00,18:20:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+trvz490719836,Dehlivery,4.9,Ghatkopar,Vasai,30-03-2022,12:55:00,13:05:00,Windy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+kwvo176250144,UPS,4.8,Malad,Thane,06-03-2022,21:40:00,21:50:00,Cloudy,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+wjky761986350,FedEx,4.6,Malad,Airoli,01-03-2022,08:10:00,08:20:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+rleh153953902,UPS,4.9,Malad,Malad,04-04-2022,20:25:00,20:35:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+vcpo904984519,DHL,2.5,Ghatkopar,Meera Road,02-04-2022,17:20:00,17:35:00,Stormy,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Jewelry
+qith021312304,Dehlivery,4.6,Malad,Andheri,03-04-2022,10:55:00,11:00:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+yxel261089528,UPS,4.9,Malad,Worli,11-02-2022,21:20:00,21:25:00,Sunny,Jam ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Skincare
+whjk646058031,FedEx,3,Bhandup,Palghar,19-03-2022,10:50:00,11:00:00,Windy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Shoes
+svxy111176694,India Post,1.6,Bhandup,Bandra,12-02-2022,18:30:00,18:40:00,Stormy,Medium ,scooter ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Sports
+pqlj119874486,UPS,5,Malad,Thane,01-04-2022,23:45:00,00:00:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+gsjz313680509,UPS,2.5,Malad,Worli,29-03-2022,23:00:00,23:05:00,Windy,Low ,motorcycle ,Urban,2,0,Failed,1,2,Delivered,2,3,4,SLA Breached,Toys
+ysof955290928,UPS,4.8,Malad,Malad,13-02-2022,19:55:00,20:10:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+hzir281026902,India Post,4.8,Bhandup,Borivali,30-03-2022,10:45:00,10:50:00,Sunny,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+lezb158488142,UPS,4.8,Malad,Thane,15-02-2022,08:35:00,08:40:00,Sunny,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+ters101342796,DHL,4.9,Ghatkopar,Meera Road,09-03-2022,20:10:00,20:15:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+osuu217847532,DHL,2.5,Ghatkopar,Virar,18-02-2022,21:30:00,21:45:00,Fog,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Apparel
+uybm390303163,DHL,5,Ghatkopar,Virar,16-03-2022,18:30:00,18:35:00,Fog,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+tpma104105121,Dehlivery,2.5,Ghatkopar,Vasai,29-03-2022,18:20:00,18:25:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Skincare
+bebv151631351,India Post,4.9,Bhandup,Kandivali,27-03-2022,17:45:00,17:55:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+eqko291188915,Dehlivery,2.5,Ghatkopar,Vasai,13-02-2022,00:00:00,00:10:00,Sandstorms,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Toys
+bpkr573708864,UPS,3,Malad,Thane,12-03-2022,21:20:00,21:35:00,Stormy,Jam ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Toys
+tiku670163066,Dehlivery,4.6,Ghatkopar,Vasai,16-02-2022,22:10:00,22:15:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+gcjo049307092,India Post,4.8,Bhandup,Borivali,05-03-2022,10:25:00,10:30:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+wdiy581729479,UPS,4.6,Malad,Malad,16-02-2022,23:25:00,23:40:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+npwo106548418,India Post,2.5,Bhandup,Borivali,05-04-2022,17:50:00,18:00:00,Cloudy,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+ytvd567194993,DHL,4.6,Ghatkopar,Virar,17-03-2022,21:25:00,21:35:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+lcma897382130,UPS,4.1,Malad,Thane,18-03-2022,19:50:00,19:55:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+prsx065636625,DHL,2.5,Ghatkopar,Meera Road,18-03-2022,22:20:00,22:30:00,Cloudy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+smtn937032095,Dehlivery,4.1,Malad,Andheri,02-04-2022,21:00:00,21:15:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+ozjz810226690,FedEx,4.9,Malad,Airoli,15-03-2022,08:15:00,08:30:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+gasz878984846,India Post,4.1,Bhandup,Kandivali,10-03-2022,21:10:00,21:15:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+doai643866562,India Post,4.1,Bhandup,Borivali,14-03-2022,17:15:00,17:30:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+xqes087347664,FedEx,4.1,Bhandup,Vikhroli,11-03-2022,11:10:00,11:20:00,Cloudy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+bjdg509711656,Dehlivery,4.8,Ghatkopar,Andheri,13-02-2022,22:30:00,22:35:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+clet305799189,DHL,4.1,Ghatkopar,Meera Road,07-03-2022,23:40:00,23:45:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+ojkf639678702,DHL,2.5,Ghatkopar,Virar,16-02-2022,22:55:00,23:10:00,Cloudy,Low ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Toys
+ovzn802438564,Dehlivery,4.6,Ghatkopar,Andheri,17-03-2022,20:15:00,20:20:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+xnsg076844692,Dehlivery,4.9,Ghatkopar,Vasai,06-04-2022,20:30:00,20:35:00,Windy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+elcp839245372,UPS,5,Malad,Worli,01-03-2022,21:45:00,21:55:00,Stormy,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Shoes
+lvph411101254,DHL,4.6,Ghatkopar,Virar,03-03-2022,18:55:00,19:00:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+urnq808828173,Dehlivery,4.4,Ghatkopar,Andheri,09-03-2022,08:40:00,08:55:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+kxdc810247309,India Post,5,Bhandup,Bandra,15-03-2022,11:50:00,12:00:00,Fog,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+ydsr554309330,India Post,4.1,Bhandup,Borivali,05-03-2022,13:25:00,13:40:00,Fog,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+wmds295023114,DHL,4.4,Ghatkopar,Meera Road,15-03-2022,19:30:00,19:35:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+snxt657345988,DHL,4.9,Ghatkopar,Meera Road,31-03-2022,18:30:00,18:40:00,Windy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+tlpw634103887,UPS,5,Malad,Malad,23-03-2022,21:00:00,21:05:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+hxlc252959441,Dehlivery,4.8,Malad,Andheri,01-04-2022,09:55:00,10:10:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+qfnw066693562,DHL,4.6,Ghatkopar,Meera Road,20-03-2022,20:55:00,21:05:00,Sandstorms,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+dxgf368981190,India Post,4.8,Bhandup,Bandra,14-03-2022,20:55:00,21:05:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+saaz395276267,FedEx,4.9,Bhandup,Palghar,27-03-2022,19:35:00,19:40:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+mjjl405462834,Dehlivery,2.5,Ghatkopar,Andheri,24-03-2022,18:40:00,18:45:00,Stormy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Shoes
+eciz076285667,India Post,4.9,Bhandup,Bandra,17-02-2022,08:25:00,08:35:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+hpap861728738,DHL,5,Ghatkopar,Virar,25-03-2022,19:25:00,19:40:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+ckgk578696273,FedEx,3,Bhandup,Vikhroli,31-03-2022,22:50:00,22:55:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Home
+mxpd911239648,UPS,4.1,Malad,Ulhasnagar,04-03-2022,22:00:00,22:05:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+bfup174692326,FedEx,4.4,Bhandup,Vashi,16-02-2022,19:20:00,19:30:00,Stormy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+bkpw908369288,FedEx,4.8,Bhandup,Palghar,06-03-2022,23:00:00,23:15:00,Sunny,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+jvxn936557952,UPS,1.5,Malad,Malad,18-02-2022,22:55:00,23:05:00,Sunny,Low ,scooter ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Outdoors
+qadk676361128,FedEx,5,Bhandup,Vikhroli,05-04-2022,22:20:00,22:30:00,Sunny,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+rbxp135564227,DHL,4.9,Ghatkopar,Meera Road,07-03-2022,22:00:00,22:10:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+nilz831017646,DHL,4.6,Ghatkopar,Virar,26-03-2022,12:20:00,12:25:00,Windy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+znzw919146964,Dehlivery,2.5,Ghatkopar,Vasai,11-03-2022,12:00:00,12:10:00,Sunny,High ,van,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Skincare
+nhda436221842,Dehlivery,4.8,Ghatkopar,Vasai,30-03-2022,17:15:00,17:30:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+rhqv232160757,India Post,4.6,Bhandup,Bandra,23-03-2022,17:40:00,17:55:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+dzcs575936167,UPS,4.8,Malad,Ulhasnagar,28-03-2022,21:00:00,21:10:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+aazb527937675,UPS,2.5,Malad,Thane,12-03-2022,19:30:00,19:45:00,Sunny,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Pet Supplies
+evzc748467090,FedEx,4.6,Bhandup,Vikhroli,03-03-2022,00:00:00,00:15:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+jpzg430807944,FedEx,5,Bhandup,Vashi,18-02-2022,22:35:00,22:50:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+dvmq392406893,UPS,1.6,Malad,Khopoli,18-02-2022,21:30:00,21:40:00,Stormy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Snacks
+tnkl744303420,Dehlivery,4.6,Ghatkopar,Vasai,16-03-2022,22:40:00,22:50:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+lifh604608424,Dehlivery,2.5,Ghatkopar,Vasai,06-03-2022,21:20:00,21:35:00,Windy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+scbx441036149,Dehlivery,4.9,Ghatkopar,Vasai,01-03-2022,10:20:00,10:25:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+gtzj875717503,UPS,2.5,Malad,Ulhasnagar,31-03-2022,19:10:00,19:15:00,Fog,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+wbjr032258806,UPS,4.9,Malad,Worli,14-03-2022,21:50:00,22:00:00,Fog,Jam ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Apparel
+caty508037770,DHL,4.6,Ghatkopar,Meera Road,18-02-2022,17:20:00,17:35:00,Stormy,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+kchf265636656,FedEx,4.1,Malad,Airoli,06-03-2022,21:40:00,21:50:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+etrv648439532,India Post,2.5,Bhandup,Bandra,25-03-2022,22:45:00,23:00:00,Windy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Sports
+dgry532903313,DHL,4.4,Ghatkopar,Virar,16-02-2022,21:55:00,22:05:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+mpkj907688327,UPS,4.9,Malad,Ulhasnagar,03-04-2022,20:55:00,21:00:00,Windy,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+hitb222861066,DHL,4.8,Ghatkopar,Virar,20-03-2022,23:40:00,23:45:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+zbwm782393236,India Post,4.1,Bhandup,Borivali,25-03-2022,21:25:00,21:35:00,Fog,Jam ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+kmbo231089374,UPS,3,Malad,Thane,14-02-2022,22:40:00,22:45:00,Cloudy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Sports
+untf875440546,Dehlivery,4.8,Malad,Andheri,31-03-2022,23:00:00,23:10:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+mkva994791983,DHL,4.6,Ghatkopar,Meera Road,15-03-2022,16:45:00,16:50:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+hprk377013710,India Post,4.9,Bhandup,Bandra,03-03-2022,10:55:00,11:10:00,Cloudy,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+prlz497875409,DHL,4.1,Ghatkopar,Meera Road,10-03-2022,17:45:00,17:50:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+dcyv640821977,DHL,4.6,Ghatkopar,Virar,04-03-2022,17:35:00,17:50:00,Sunny,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+tnte563080527,Dehlivery,4.9,Malad,Andheri,03-03-2022,18:30:00,18:40:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+pgzl777716873,India Post,4.1,Bhandup,Borivali,17-02-2022,11:40:00,11:45:00,Fog,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+uqac946966795,FedEx,5,Bhandup,Palghar,14-03-2022,21:50:00,22:00:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+srts927270263,FedEx,4.1,Bhandup,Vashi,03-03-2022,23:20:00,23:25:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+qcbh914401278,Dehlivery,4.1,Ghatkopar,Andheri,13-02-2022,23:25:00,23:35:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+ontn116289809,FedEx,3,Malad,Airoli,07-03-2022,17:50:00,17:55:00,Sunny,Medium ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Jewelry
+heke604150121,DHL,2.5,Ghatkopar,Meera Road,16-03-2022,17:10:00,17:15:00,Cloudy,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Outdoors
+mleb942163074,Dehlivery,4.6,Ghatkopar,Vasai,06-03-2022,17:20:00,17:30:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+obhg842862910,India Post,4.9,Bhandup,Kandivali,03-04-2022,10:25:00,10:30:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+zpor766267650,UPS,4.8,Malad,Worli,07-03-2022,09:30:00,09:35:00,Stormy,Low ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Snacks
+rxfg748489108,UPS,4.8,Malad,Ulhasnagar,15-03-2022,16:15:00,16:20:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+ifzh038597668,UPS,2.5,Malad,Thane,04-03-2022,22:30:00,22:35:00,Windy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Pet Supplies
+vwne871291890,Dehlivery,2.5,Ghatkopar,Vasai,14-02-2022,17:45:00,18:00:00,Sandstorms,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+nvkv892242670,Dehlivery,4.4,Malad,Andheri,09-03-2022,10:20:00,10:35:00,Sandstorms,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+tfpw264934804,India Post,2.5,Bhandup,Bandra,14-03-2022,18:35:00,18:45:00,Sunny,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Electronics
+rmgo277916637,India Post,4.1,Bhandup,Kandivali,31-03-2022,19:15:00,19:30:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+rjuk855079528,FedEx,4.8,Bhandup,Vikhroli,02-03-2022,17:30:00,17:45:00,Windy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+sbwi574419008,FedEx,1.6,Bhandup,Vikhroli,14-02-2022,20:30:00,20:45:00,Windy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Sports
+opms922781586,India Post,5,Bhandup,Borivali,04-03-2022,22:40:00,22:45:00,Cloudy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+ivpy820825330,UPS,2.5,Malad,Malad,28-03-2022,18:30:00,18:35:00,Cloudy,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Toys
+hdce688458513,UPS,4.8,Malad,Ulhasnagar,19-03-2022,22:55:00,23:00:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+gxan859732316,FedEx,4.9,Malad,Airoli,17-02-2022,11:20:00,11:35:00,Stormy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+kzbu064137694,Dehlivery,5,Ghatkopar,Vasai,20-03-2022,21:30:00,21:35:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+ugxo576067618,India Post,1.6,Bhandup,Kandivali,12-03-2022,23:20:00,23:25:00,Cloudy,Low ,scooter ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Home
+bnva693926602,DHL,4.6,Ghatkopar,Meera Road,30-03-2022,21:10:00,21:15:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+pnrw431937733,Dehlivery,4.6,Ghatkopar,Andheri,16-02-2022,20:00:00,20:10:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+xhqi749945004,UPS,4.8,Malad,Khopoli,01-04-2022,08:55:00,09:00:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+bnnr851834947,DHL,2.5,Ghatkopar,Meera Road,08-03-2022,21:45:00,21:55:00,Windy,Jam ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Kitchen
+tgte845838682,DHL,4.6,Ghatkopar,Virar,04-03-2022,18:20:00,18:25:00,Fog,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+rndx903920678,Dehlivery,4.9,Ghatkopar,Vasai,03-03-2022,10:10:00,10:20:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+woyb459293049,FedEx,4.4,Bhandup,Vikhroli,12-02-2022,22:55:00,23:10:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+wsri799484644,DHL,4.9,Ghatkopar,Virar,06-03-2022,19:35:00,19:40:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+exyc683633861,DHL,4.9,Ghatkopar,Meera Road,12-03-2022,23:00:00,23:15:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+oels853255874,FedEx,4.8,Bhandup,Vashi,18-02-2022,19:30:00,19:40:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+brnd208997655,DHL,4.6,Ghatkopar,Virar,28-03-2022,19:10:00,19:15:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+kfhd623107769,UPS,4.8,Malad,Thane,27-03-2022,19:50:00,20:05:00,Stormy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+nzhp394170773,Dehlivery,4.6,Ghatkopar,Vasai,01-03-2022,23:50:00,00:00:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+extd941092460,DHL,4.9,Ghatkopar,Meera Road,03-03-2022,20:25:00,20:35:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+ppqi698287741,FedEx,4.8,Bhandup,Palghar,29-03-2022,21:50:00,22:00:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+ftxu257921170,DHL,4.6,Ghatkopar,Meera Road,01-04-2022,16:15:00,16:30:00,Sandstorms,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+ohfz488690337,DHL,4.9,Ghatkopar,Virar,10-03-2022,22:20:00,22:35:00,Fog,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+hjje440881295,UPS,2.5,Malad,Khopoli,01-03-2022,18:50:00,19:05:00,Stormy,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Books
+zqcy759656108,Dehlivery,2.5,Ghatkopar,Vasai,05-04-2022,16:35:00,16:45:00,Sunny,Medium ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Kitchen
+ucak745030472,UPS,4.9,Malad,Malad,18-03-2022,19:45:00,19:50:00,Fog,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+dxtj319166247,UPS,4.8,Malad,Thane,30-03-2022,15:15:00,15:20:00,Cloudy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+kitt337907719,UPS,4.8,Malad,Thane,02-03-2022,22:50:00,23:05:00,Stormy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+dvkw198193286,UPS,5,Malad,Thane,08-03-2022,00:00:00,00:15:00,Windy,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+xqkm789529983,Dehlivery,4.8,Ghatkopar,Vasai,06-03-2022,19:50:00,20:05:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+uxnt196160734,FedEx,4.1,Bhandup,Palghar,14-02-2022,21:15:00,21:30:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+hgqd672005050,UPS,4.9,Malad,Malad,04-04-2022,21:40:00,21:50:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+nrgt655064427,India Post,2.5,Bhandup,Kandivali,09-03-2022,09:15:00,09:20:00,Windy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Toys
+pign307670486,FedEx,4.6,Bhandup,Vashi,13-03-2022,17:50:00,17:55:00,Sunny,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+cmiy697846170,DHL,4.8,Ghatkopar,Virar,06-03-2022,21:40:00,21:45:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Sports
+svlw573443641,UPS,1.6,Malad,Khopoli,27-03-2022,19:40:00,19:50:00,Stormy,Jam ,scooter ,Metropolitian,5,0,Failed,2,0,Failed,Failed,7,8,SLA Breached,Toys
+wkyn138619655,India Post,3,Bhandup,Borivali,05-03-2022,20:45:00,20:55:00,Sandstorms,Jam ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Books
+pdpv628261886,UPS,4.6,Malad,Malad,25-03-2022,23:35:00,23:50:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+ebtw655648192,Dehlivery,3,Malad,Andheri,10-03-2022,21:40:00,21:45:00,Windy,Jam ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Sports
+hqju352058882,FedEx,4.6,Bhandup,Palghar,25-03-2022,19:15:00,19:20:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+rvxp980815851,DHL,4.6,Ghatkopar,Meera Road,13-03-2022,20:45:00,21:00:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+wzmv373637225,Dehlivery,4.6,Ghatkopar,Vasai,03-04-2022,16:10:00,16:15:00,Cloudy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+eamn881338159,India Post,5,Bhandup,Kandivali,13-03-2022,08:20:00,08:30:00,Cloudy,Low ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+huhy242117286,Dehlivery,2.5,Malad,Andheri,01-03-2022,23:00:00,23:05:00,Stormy,Low ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Skincare
+gwnt537190370,FedEx,4.8,Bhandup,Palghar,17-03-2022,11:20:00,11:30:00,Cloudy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Cosmetics
+spqt033970808,UPS,3,Malad,Worli,30-03-2022,12:20:00,12:30:00,Cloudy,High ,motorcycle ,Urban,2,2,Delivered,1,1,Delivered,1,2,2,On Time,Grocery
+qsyq438659561,UPS,5,Malad,Thane,01-04-2022,13:15:00,13:25:00,Windy,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+bxmp908266441,India Post,4.8,Bhandup,Bandra,21-03-2022,22:25:00,22:30:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+qkwq310213954,FedEx,4.8,Bhandup,Vashi,03-04-2022,23:35:00,23:40:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+xpdx531588871,UPS,4.9,Malad,Malad,08-03-2022,22:00:00,22:10:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+oolu940481971,Dehlivery,4.8,Malad,Andheri,16-02-2022,23:50:00,00:00:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+drgh498946193,UPS,5,Malad,Worli,26-03-2022,23:35:00,23:50:00,Sunny,Low ,motorcycle ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Shoes
+mtcr221173183,DHL,4.8,Ghatkopar,Virar,28-03-2022,19:15:00,19:20:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+ncnc584203263,UPS,4.1,Malad,Malad,19-03-2022,21:30:00,21:45:00,Sunny,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+aeuz262262868,Dehlivery,4.6,Ghatkopar,Vasai,12-03-2022,19:40:00,19:55:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+ewye976989972,UPS,5,Malad,Khopoli,23-03-2022,17:10:00,17:15:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+kqub936334770,Dehlivery,3,Ghatkopar,Vasai,01-03-2022,10:00:00,10:05:00,Stormy,Low ,scooter ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Home
+cynm740325829,India Post,4.9,Bhandup,Borivali,26-03-2022,09:35:00,09:45:00,Sunny,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Toys
+izkt125502221,Dehlivery,4.9,Ghatkopar,Andheri,13-03-2022,17:50:00,18:05:00,Fog,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+yalk869869009,FedEx,4.1,Bhandup,Palghar,03-04-2022,00:00:00,00:05:00,Windy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+ijbv680529287,India Post,4.1,Bhandup,Borivali,27-03-2022,19:20:00,19:30:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Pet Supplies
+fryg770479707,UPS,5,Malad,Khopoli,15-02-2022,22:20:00,22:35:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+uwok406160969,Dehlivery,4.6,Ghatkopar,Vasai,14-03-2022,19:45:00,19:50:00,Fog,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Electronics
+eeaa240160362,FedEx,4.9,Bhandup,Vashi,19-03-2022,17:25:00,17:40:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+dwgu964602157,Dehlivery,3,Ghatkopar,Vasai,05-03-2022,23:15:00,23:20:00,Stormy,Low ,motorcycle ,Metropolitian,5,2,Delivered,2,1,Delivered,1,5,2,Early,Shoes
+plst305855182,DHL,4.6,Ghatkopar,Meera Road,10-03-2022,19:30:00,19:40:00,Sandstorms,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+zrpq813560282,Dehlivery,4.8,Ghatkopar,Andheri,27-03-2022,20:20:00,20:25:00,Cloudy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+fitr462640911,FedEx,4.6,Bhandup,Vashi,02-03-2022,20:40:00,20:50:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Kitchen
+free869467861,Dehlivery,4.9,Ghatkopar,Andheri,03-04-2022,21:40:00,21:55:00,Stormy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+uvvq389339705,FedEx,2.5,Bhandup,Vashi,06-03-2022,20:40:00,20:50:00,Stormy,Jam ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Snacks
+ntvz882330474,DHL,4.6,Ghatkopar,Meera Road,29-03-2022,19:15:00,19:20:00,Windy,Jam ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+rwmk327867739,FedEx,4.9,Bhandup,Vikhroli,01-04-2022,15:50:00,15:55:00,Stormy,Medium ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+nbtb320230472,UPS,2.5,Malad,Thane,06-04-2022,22:25:00,22:30:00,Cloudy,Low ,motorcycle ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Home
+jmiq794769698,DHL,5,Ghatkopar,Virar,20-03-2022,17:55:00,18:05:00,Windy,Medium ,van,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+ohze761414069,DHL,4.8,Ghatkopar,Virar,09-03-2022,09:45:00,09:55:00,Fog,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Outdoors
+ayaz132478544,UPS,4.9,Malad,Ulhasnagar,26-03-2022,10:00:00,10:10:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Apparel
+osdy640862265,UPS,4.6,Malad,Worli,17-03-2022,21:20:00,21:30:00,Fog,Jam ,scooter ,Urban,2,1,Delivered,1,1,Delivered,1,2,1,Early,Books
+uvyy370020833,UPS,4.6,Malad,Malad,12-02-2022,22:55:00,23:05:00,Sandstorms,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Home
+uukj703038347,UPS,4.8,Malad,Khopoli,05-04-2022,13:00:00,13:10:00,Sandstorms,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Clothing
+joho495798943,DHL,5,Ghatkopar,Virar,07-03-2022,11:55:00,12:05:00,Sandstorms,High ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Skincare
+viin268221671,Dehlivery,4.9,Ghatkopar,Vasai,05-04-2022,23:35:00,23:45:00,Windy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Snacks
+tqld761290890,India Post,4.8,Bhandup,Kandivali,09-03-2022,17:15:00,17:30:00,Stormy,Medium ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
+zowb416004967,UPS,4.1,Malad,Khopoli,12-03-2022,23:30:00,23:40:00,Cloudy,Low ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Books
+hxsv146301375,UPS,4.9,Malad,Khopoli,03-03-2022,11:10:00,11:15:00,Windy,High ,motorcycle ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+vcrk401368337,DHL,5,Ghatkopar,Virar,27-03-2022,00:00:00,00:15:00,Stormy,Low ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Grocery
+mhkw290830083,India Post,2.5,Bhandup,Kandivali,11-03-2022,14:00:00,14:15:00,Windy,High ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Cosmetics
+kfcu924212731,DHL,5,Ghatkopar,Meera Road,18-02-2022,20:55:00,21:10:00,Cloudy,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Jewelry
+rxjl381247495,UPS,2.5,Malad,Malad,17-03-2022,18:25:00,18:30:00,Windy,Medium ,scooter ,Metropolitian,5,0,Failed,2,2,Delivered,2,7,7,On Time,Grocery
+tuta922105802,DHL,4.6,Ghatkopar,Vasai,28-03-2022,19:40:00,19:55:00,Sunny,Jam ,scooter ,Metropolitian,5,1,Delivered,2,1,Delivered,1,5,1,Early,Shoes
