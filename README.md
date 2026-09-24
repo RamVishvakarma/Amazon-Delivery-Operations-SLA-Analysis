@@ -1,5 +1,9 @@
 # Amazon Delivery Operations & SLA Analysis
 
+## Dashboard
+
+![Amazon SLA Dashboard](amazon%20sla.png)
+
 ## Project Overview
 
 This project analyzes an Amazon-style delivery dataset to evaluate
